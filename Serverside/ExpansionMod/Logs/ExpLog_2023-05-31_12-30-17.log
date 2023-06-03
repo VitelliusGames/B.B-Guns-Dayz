@@ -1,0 +1,88 @@
+12:31:31.585 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+12:31:31.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+12:31:31.605 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+12:31:31.605 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+12:35:35.500 [MissionAirdrop] An airdrop is heading towards "Norisnk" (pos=<3974.000000, 0.000000, 7350.000000> type=Random_Norisnk) with a ExpansionAirdropContainer
+12:40:13.070 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+13:02:31.507 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+13:02:31.515 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+13:02:31.515 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+13:02:31.515 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+13:23:49.511 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+13:23:49.519 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+13:23:49.519 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 7 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+13:23:49.519 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+13:35:45.867 [Territory] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) created territory Nightrider Central at <5228.523926, 35.588287, 8591.760742>
+13:37:08.812 [VehicleDeleted] Sedan_02 (id=29C2C00BBE42C0E5314616A63A884D2A pos=<0.000720, 0.626982, -0.153169>)
+13:37:51.539 [Territory] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<5229.242188, 35.988377, 8588.322266>) was invited to join the territory Nightrider Central at <5228.523926, 35.588287, 8591.760742> by the player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=)
+13:38:06.121 [VehicleCarKey] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5220.561523, 31.128290, 8586.625977>) used the  ExpansionCarKey to unlock Sedan_02 (id=E180183CE546C6EF8CD30585AD719716 pos=<5219.662109, 31.072960, 8588.208984>)
+13:38:48.332 [VehicleDeleted] Hatchback_02 (id=A4EA9D83B74FA3817C5B008CB0F4A88A pos=<5213.914063, 31.099239, 8574.414063>)
+13:38:56.773 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8597.910156, 14.720000, 10508.868164>) Entered the safezone
+13:39:02.152 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8586.173828, 14.722122, 10505.396484>) Entered the safezone
+13:39:48.496 [Market] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) has send a requested to purchase hatchback_02 x1 from the trader "Vehicles (Hassan [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+13:39:48.562 [VehicleDeleted] Hatchback_02 (id=1E75526B9F4D7C59F5028BB9E8A6F977 pos=<-0.000004, 0.640978, 0.093172>)
+13:39:48.578 [Market] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) has bought hatchback_02 x1 from the trader "Vehicles (Hassan [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 21650.
+13:40:01.503 [AI Patrol] Spawning 3 Shamans bots at <6866.461426, 2.552452, 9699.200195>
+13:40:04.546 [VehicleCarKey] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8584.031250, 14.772943, 10481.661133>) used the  ExpansionCarKey to unlock Hatchback_02 (id=4A7A7E0B84441533072580ADD7171AF5 pos=<8585.000000, 14.799120, 10482.699219>)
+13:40:06.375 [AI Patrol] Spawning 2 Shamans bots at <5309.964844, 54.886204, 9630.141602>
+13:40:09.511 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<6299.691406, 20.692936, 9522.789063>) Left the safezone
+13:40:11.503 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle GOLF GTi (id=4A7A7E0B84441533072580ADD7171AF5 pos=<8585.000000, 14.799101, 10482.699219>) as driver
+13:40:29.699 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase expansionmerlin x1 from the trader "Aircraft (Denis [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "Airstrip Trading Zone" (pos=<6302.000000, 21.209999, 9513.000000>).
+13:40:29.839 [VehicleDeleted] ExpansionMerlin (id=7D0E1346E044DB339428FABEF0A533E5 pos=<0.014144, 2.379129, 3.654344>)
+13:40:29.847 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought expansionmerlin x1 from the trader "Aircraft (Denis [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "Airstrip Trading Zone" (pos=<6302.000000, 21.209999, 9513.000000>) for a price of 102990.
+13:40:32.406 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle GOLF GTi (id=4A7A7E0B84441533072580ADD7171AF5 pos=<5223.862305, 36.166740, 8634.601563>)
+13:40:34.015 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5224.280273, 35.163666, 8628.387695>) Left the safezone
+13:40:44.011 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to sell expansionmerlin x1 at the trader "Aircraft (Denis [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "Airstrip Trading Zone" (pos=<6302.000000, 21.209999, 9513.000000>).
+13:40:44.160 [VehicleDeleted] ExpansionMerlin (id=A057DBD99F4BFEB375EDF18CC574E7C6 pos=<6316.446289, 20.567472, 9495.143555>)
+13:40:44.164 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has sold expansionmerlin x1 at the trader "Aircraft (Denis [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "Airstrip Trading Zone" (pos=<6302.000000, 21.209999, 9513.000000>) and got 77241.
+13:41:21.707 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle GOLF GTi (id=4A7A7E0B84441533072580ADD7171AF5 pos=<5223.901855, 36.167698, 8634.601563>) as driver
+13:41:24.246 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle GOLF GTi (id=4A7A7E0B84441533072580ADD7171AF5 pos=<5223.947754, 36.168709, 8634.601563>)
+13:41:39.722 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle GOLF GTi (id=4A7A7E0B84441533072580ADD7171AF5 pos=<5223.070801, 31.168102, 8592.955078>)
+13:42:31.070 [VehicleDeleted] Hatchback_02 (id=AC0BDA6CC24CA7D769DE17B6DB6F55FD pos=<-0.000004, 0.640978, 0.093172>)
+13:42:31.089 [VehicleDeleted] Hatchback_02 (id=4A7A7E0B84441533072580ADD7171AF5 pos=<5223.070313, 31.168095, 8592.955078>)
+13:42:31.089 [VirtualGarage] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5230.515625, 35.525223, 8589.811523>) stored a vehicle "Hatchback_02" (GlobalID=80000000800000008000000080000488 pos=<5223.070313, 31.168095, 8592.955078>)
+13:42:39.562 [VirtualGarage] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<5229.544434, 35.558105, 8590.366211>) retrieved a vehicle "Hatchback_02" (GlobalID=80000000800000008000000080000488 pos=<5223.070313, 31.168095, 8592.955078>)
+13:45:01.222 [VehicleCarKey] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<5224.750977, 31.189627, 8593.152344>) used the  ExpansionCarKey to lock Hatchback_02 (id=CC143E3D8548FF19F6F316ABCA590E12 pos=<5223.069824, 31.168058, 8592.955078>)
+13:45:02.789 [VehicleCarKey] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<5224.750977, 31.189627, 8593.152344>) used the  ExpansionCarKey to unlock Hatchback_02 (id=CC143E3D8548FF19F6F316ABCA590E12 pos=<5223.069824, 31.168058, 8592.955078>)
+13:45:50.011 [VehicleDeleted] Hatchback_02 (id=CC143E3D8548FF19F6F316ABCA590E12 pos=<5223.069824, 31.168058, 8592.955078>)
+13:45:50.011 [VirtualGarage] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5230.471191, 35.492397, 8590.472656>) stored a vehicle "Hatchback_02" (GlobalID=80000000800000008000000080000488 pos=<5223.069824, 31.168058, 8592.955078>)
+13:54:06.347 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+13:54:34.000 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+13:54:34.007 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+13:54:34.007 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+14:02:29.500 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer_Military
+14:08:22.007 [VehicleDeleted] Expansion_Landrover (id=14D6F393BE4563AD55AF92805A24FEE0 pos=<-0.004283, 0.705366, 0.335421>)
+14:08:22.027 [VirtualGarage] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<1172.529175, 2.012493, 11562.849609>) retrieved a vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000460 pos=<1175.778442, 1.971495, 11573.240234>)
+14:08:28.851 [Territory] Admin "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) deleted territory q23q23 at <1172.311401, 2.000000, 11564.941406>
+14:08:59.656 [VehicleEnter] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] entered vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<1175.778320, 1.971496, 11573.240234>) as driver
+14:09:03.761 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<1175.778320, 1.971496, 11573.240234>)
+14:10:21.007 [AI Patrol] Spawning 2 Shamans bots at <1095.240845, 7.841045, 11913.560547>
+14:10:26.640 [AI Patrol] Spawning 2 Shamans bots at <2403.300049, 2.000000, 11130.036133>
+14:10:31.578 [BaseRaiding] ExpansionWall6x3 (<5232.670898, 35.450031, 8588.490234>) Code set by player "Vitellius" (ID = "QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=" at <5231.886719, 35.683632, 8589.551758>) and the code is 011795
+14:10:50.164 [BaseRaiding] ExpansionWall6x3 (<5232.049805, 35.437847, 8582.244141>) Code set by player "Vitellius" (ID = "QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=" at <5232.391602, 35.479729, 8583.122070>) and the code is 011795
+14:11:11.089 [BaseRaiding] ExpansionWall6x3 (<5230.239746, 31.478619, 8586.777344>) Code set by player "Vitellius" (ID = "QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=" at <5230.080566, 31.479441, 8585.775391>) and the code is 011795
+14:12:34.281 [VehicleDestroyed] Expansion_Landrover (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<2784.170654, -2.343732, 10323.920898>)
+14:13:22.589 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<6241.375488, 21.074032, 9280.671875>)
+14:13:25.628 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<6241.375488, 21.074032, 9280.671875>)
+14:13:32.046 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<db57d440> at <7493.32, 50.27, 7551.42> EXPLOSION range 12 dropoff 3
+14:13:32.160 [VehicleLeave] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] left vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<6241.375488, 21.074032, 9280.671875>)
+14:13:36.265 [VehicleEnter] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] entered vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<6241.375488, 21.074032, 9280.671875>) as driver
+14:13:37.859 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<6241.375488, 21.074032, 9280.671875>)
+14:13:57.726 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<e60f8270> at <7499.56, 46.42, 7560.26> EXPLOSION range 20 dropoff 5
+14:14:09.812 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<6241.375488, 21.074032, 9280.671875>)
+14:14:12.011 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<6241.375488, 21.074032, 9280.671875>)
+14:14:28.187 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<bbf4f390> at <7509.21, 42.43, 7575.17> EXPLOSION range 20 dropoff 5
+14:14:45.011 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<bbf4d0e0> at <7509.72, 42.52, 7572.81> EXPLOSION range 20 dropoff 5
+14:15:10.484 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8303.893555, 14.458730, 10745.475586>) Entered the safezone
+14:15:45.390 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<7529.980957, 45.988712, 7542.692383>) Left the safezone
+14:15:52.742 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8542.521484, 15.880750, 10530.555664>) Entered the safezone
+14:15:57.347 [VehicleLeave] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] left vehicle Land Rover Defender (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<8542.306641, 14.879531, 10530.031250>)
+14:17:15.906 [VehicleEnter] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] entered vehicle Land Rover Defender (id=CA379FA7C34DEBD627C9129E151F109B pos=<8591.058594, 14.697749, 10489.277344>) as driver
+14:17:18.054 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Land Rover Defender (id=CA379FA7C34DEBD627C9129E151F109B pos=<8591.058594, 14.697749, 10489.277344>)
+14:17:23.765 [VehicleLeave] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] left vehicle Land Rover Defender (id=CA379FA7C34DEBD627C9129E151F109B pos=<8591.058594, 14.697750, 10489.277344>)
+14:18:28.578 [VehicleDeleted] Expansion_Landrover (id=E3F2266AA140CC413B247AA71CFD85B1 pos=<8542.306641, 14.879529, 10530.031250>)
+14:19:07.968 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to sell expansion_landrover x1 at the trader "Vehicles (Hassan [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:19:08.125 [VehicleDeleted] Expansion_Landrover_Green (id=CA379FA7C34DEBD627C9129E151F109B pos=<8591.058594, 14.697750, 10489.277344>)
+14:19:08.128 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has sold expansion_landrover x1 at the trader "Vehicles (Hassan [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 145440.
+14:24:09.500 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8004.585449, 17.893375, 10535.166992>) Left the safezone
+14:26:45.097 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)

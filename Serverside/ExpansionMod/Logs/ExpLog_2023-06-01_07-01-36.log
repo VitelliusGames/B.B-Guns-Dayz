@@ -1,0 +1,7 @@
+07:03:25.601 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8567.922852, 15.940205, 10514.743164>) Entered the safezone
+07:03:25.603 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+07:03:25.609 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:03:25.611 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:03:25.611 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:04:04.109 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to sell expansiongoldbar x1 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+07:04:04.271 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has sold expansiongoldbar x1 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 1.

@@ -1,0 +1,63 @@
+01:42:59.406 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+01:42:59.414 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+01:42:59.415 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 7 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+01:42:59.416 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+01:44:18.187 [Party] Player "RC" (id=-G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+01:44:18.194 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=
+01:44:18.195 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: -G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=
+01:44:18.195 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: -G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=
+01:44:50.067 [VehicleEnter] Player RC [uid=-G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5220.325195, 31.037247, 8592.164063>) as driver
+01:44:55.223 [VehicleEngine] Player RC [uid=-G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=] started vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5220.325195, 31.037220, 8592.164063>)
+01:45:02.098 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+01:45:02.105 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+01:45:02.105 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+01:45:16.670 [VehicleEngine] Player RC [uid=-G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=] stopped vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5221.859375, 31.076302, 8588.635742>)
+01:45:23.754 [VehicleLeave] Player RC [uid=-G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=] left vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5221.858887, 31.076290, 8588.635742>)
+01:45:49.384 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer
+01:51:49.131 [Territory] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) created territory Nightrider Central at <5228.662109, 35.817753, 8592.057617>
+01:54:10.009 [AI Patrol] Spawning 2 Shamans bots at <5337.888672, 50.911179, 9650.063477>
+01:56:50.221 [AI Patrol] Spawning 3 Shamans bots at <6886.694336, 1.986836, 9786.181641>
+01:59:49.157 [Party] Player "RC" (id=-G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+02:02:50.595 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5221.858887, 31.076309, 8588.635742>) as driver
+02:02:53.241 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5221.858887, 31.076298, 8588.635742>)
+02:04:58.199 [Party] Player "RC" (id=-G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+02:04:58.205 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=
+02:04:58.206 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: -G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=
+02:04:58.207 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: -G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=
+02:05:38.394 [Party] Player "RC" (id=-G7h99lSZDcoLDkS_Pf_kTJ_FSRUsnlVGD6gnAZk71c=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+02:05:44.583 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.922852, 19.893969, 9216.209961>)
+02:05:48.036 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.922852, 19.893957, 9216.209961>)
+02:10:41.414 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.922852, 19.893972, 9216.209961>) as driver
+02:10:43.449 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.922852, 19.893955, 9216.209961>)
+02:10:48.172 [VehicleEnter] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.936523, 19.894648, 9216.254883>) as passenger
+02:11:06.479 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6212.808105, 21.185617, 9201.509766>)
+02:12:08.327 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6212.791992, 21.184986, 9201.512695>)
+02:15:57.543 [VehicleLeave] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] left vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5262.510742, 38.922031, 8669.317383>)
+02:16:46.069 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5224.089355, 31.161449, 8590.330078>)
+02:16:51.228 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5223.984375, 31.151669, 8590.533203>)
+02:17:09.880 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5211.801758, 30.985872, 8570.206055>)
+02:17:27.054 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5211.801758, 30.985863, 8570.206055>)
+02:24:31.460 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+02:26:28.371 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5211.801758, 30.985891, 8570.206055>) as driver
+02:26:32.054 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5211.802246, 30.985886, 8570.205078>)
+02:27:04.457 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5223.511230, 31.778948, 8496.419922>)
+02:27:16.060 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5223.753418, 31.720608, 8496.806641>)
+02:28:39.362 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5224.170898, 31.839840, 8496.935547>) as driver
+02:28:48.082 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5224.181641, 31.822697, 8496.933594>)
+02:29:38.474 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5281.323242, 35.213615, 8564.954102>)
+02:29:45.013 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5281.193848, 35.166782, 8564.701172>)
+02:30:52.999 [VehicleCarKey] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5282.999512, 35.774902, 8564.250977>) used the  ExpansionCarKey to lock Sedan_02 (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5281.177246, 35.160389, 8564.667969>)
+02:31:05.044 [VehicleDeleted] Sedan_02 (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<5281.177246, 35.160389, 8564.667969>)
+02:31:05.045 [VehicleCover] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5282.999512, 35.774902, 8564.250977>) covered vehicle "Sedan_02" (GlobalID=80000000800000008000000080000357 pos=<5281.177246, 35.160389, 8564.667969>)!
+02:33:55.554 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+03:33:56.577 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer
+05:00:45.582 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Military
+06:27:37.601 [MissionAirdrop] An airdrop is heading towards "Lubjansk" (pos=<4680.000000, 0.000000, 10872.000000> type=Random_Lubjansk) with a ExpansionAirdropContainer_Military
+07:55:11.599 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer
+08:40:23.919 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8559.537109, 15.931997, 10514.991211>) Entered the safezone
+08:40:23.921 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+08:40:23.929 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:40:23.929 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:40:23.929 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:40:58.251 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<161.687958, 2.012368, 12576.390625>) Left the safezone
+08:42:14.681 [Territory] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) created territory Test at <162.364075, 2.000000, 12568.999023>

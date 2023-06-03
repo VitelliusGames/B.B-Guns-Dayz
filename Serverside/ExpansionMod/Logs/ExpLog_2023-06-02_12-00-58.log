@@ -1,0 +1,72 @@
+12:01:30.519 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8557.873047, 15.932615, 10518.012695>) Entered the safezone
+12:01:30.519 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+12:01:30.531 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+12:01:30.531 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+12:01:54.347 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to sell expansiongoldbar x2 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+12:01:54.503 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has sold expansiongoldbar x2 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 20000.
+12:02:00.535 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to sell expansiongoldnugget x12 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+12:02:00.687 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has sold expansiongoldnugget x12 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 12000.
+12:05:50.593 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8107.994141, 13.529238, 10511.218750>) Left the safezone
+12:06:16.503 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Basebuilding
+12:07:07.394 [AI Patrol] Spawning 3 Shamans bots at <6809.002930, 12.303994, 10163.142578>
+12:08:02.191 [AI Patrol] Spawning 4 Shamans bots at <6830.789551, 15.213998, 11180.451172>
+12:15:27.199 [AI Patrol] Spawning 4 Shamans bots at <7031.494629, 3.517310, 11907.936523>
+12:16:16.816 [AI Patrol] Spawning 2 Shamans bots at <6104.940430, 12.025582, 11643.769531>
+12:24:47.785 [VehicleDeleted] Hatchback_02 (id=35688A3F0C424E6C43A16C833A623B57 pos=<6288.601563, 9.867632, 9913.332031>)
+12:24:51.359 [VehicleDeleted] ExpansionUAZCargoRoofless (id=82383A25FE408A44D005BDABE4A49EF9 pos=<5823.854004, 50.617294, 8711.887695>)
+12:24:56.664 [Party] Player "BruncleJAY04" (id=MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+12:24:56.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=
+12:24:56.671 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=
+12:24:56.675 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=
+12:25:03.019 [VehicleDeleted] ExpansionUAZCargoRoofless_Black (id=B2F7B6A13C4D73B6BFA6BFA935F2CF43 pos=<5521.675781, 117.689865, 8193.198242>)
+12:25:03.019 [VehicleDeleted] Truck_01_Covered_Red (id=3A7C54850143105ACFFB77A2D21078C8 pos=<3397.478271, 215.899353, 6743.286133>)
+12:25:03.019 [VehicleDeleted] ExpansionZodiacBoat_Black (id=BAC19C55AC446321D65A7BB08763FFFE pos=<8032.097656, 0.256546, 7717.455078>)
+12:25:03.019 [VehicleDeleted] ExpansionZodiacBoat_Green (id=2F36B2844249D9F0E1E3E89481F3B1B0 pos=<8126.303223, 0.256546, 7899.356445>)
+12:25:03.019 [VehicleDeleted] ExpansionUAZ_LightGreen (id=0A35680960498B6E5896C28178A7DAB3 pos=<2393.719482, 16.161926, 5803.189941>)
+12:25:03.019 [VehicleDeleted] Truck_01_Covered_Lime (id=96B56EB3AF47E8DC889154894D5E3C7B pos=<7106.763672, 40.071880, 5810.664063>)
+12:25:03.023 [VehicleDeleted] ExpansionUtilityBoat (id=5DC00682494143D220DDBF9573935714 pos=<7598.433594, 0.302032, 9349.514648>)
+12:25:03.023 [VehicleDeleted] ExpansionUh1h_Uber (id=5CAFA0EC064EED6610CEB6B3590A96F2 pos=<8897.245117, 7.534478, 10755.638672>)
+12:25:03.023 [VehicleDeleted] ExpansionZodiacBoat_Black (id=70BF56821347359E5FBC24A6156EB408 pos=<9138.132813, -0.117544, 10075.926758>)
+12:27:27.847 [Party] Player "BruncleJAY04" (id=MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+12:30:59.175 [Party] Player "BruncleJAY04" (id=MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+12:30:59.183 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=
+12:30:59.183 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=
+12:30:59.183 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=
+12:34:46.566 [AI Patrol] Spawning 4 Shamans bots at <5285.952148, 271.205994, 7271.572266>
+12:40:51.839 [AI Patrol] Spawning 4 Shamans bots at <5708.298340, 10.471238, 9917.448242>
+12:47:10.601 [ExplosionDamageSystem] About to explode FFY_UWUSound_Grenade_Ammo from FFY_UWUSound_Grenade<6cc1b5e0> at <6427.27, 16.34, 9273.61> EXPLOSION range 20 dropoff 5
+13:00:16.214 [Party] Player "BruncleJAY04" (id=MIR4zp5Cz79Ycsg-oQWPG7Hvmuc0hEYIOjttuyW7pnU=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+13:32:36.570 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Basebuilding
+13:46:17.511 [AI Patrol] Spawning 4 Shamans bots at <7741.505371, 53.301044, 7181.441895>
+13:51:52.320 [AI Patrol] Spawning 4 Shamans bots at <7975.190430, 22.855490, 8970.380859>
+13:57:16.144 [Safezone] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog= pos=<8550.307617, 15.932203, 10520.528320>) Entered the safezone
+13:57:16.152 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+13:57:16.152 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 8 - Creator UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+13:57:16.152 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+13:57:16.156 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+13:58:36.296 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to purchase woolgloves_green x1 from the trader "Clothing_Accessories (Helga [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+13:58:36.363 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has bought woolgloves_green x1 from the trader "Clothing_Accessories (Helga [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 35.
+13:59:35.296 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: onM_Lb7e9Te6iszoggeT4fL1kfp1THrTlSKeeFDAKJM=
+13:59:36.957 [AI Patrol] Spawning 3 Shamans bots at <4957.827637, 11.389567, 11218.797852>
+14:00:30.242 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to sell ducttape x1 at the trader "Components (Quinn [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:00:30.304 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has sold ducttape x1 at the trader "Components (Quinn [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 10.
+14:01:26.835 [SpawnSelection] Player "O Verdadeiro" (id=onM_Lb7e9Te6iszoggeT4fL1kfp1THrTlSKeeFDAKJM=) spawned at <7981.229004, 4.026991, 7395.474121>
+14:01:40.125 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to sell shovel x1 at the trader "BuildingSupplies (Lewis [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:01:40.187 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has sold shovel x1 at the trader "BuildingSupplies (Lewis [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 2.
+14:01:43.957 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to sell hammer x1 at the trader "BuildingSupplies (Lewis [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:01:44.011 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has sold hammer x1 at the trader "BuildingSupplies (Lewis [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 0.
+14:01:59.953 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to purchase firefighteraxe x1 from the trader "BuildingSupplies (Lewis [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:02:00.003 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has bought firefighteraxe x1 from the trader "BuildingSupplies (Lewis [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 30.
+14:03:28.132 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8278.706055, 15.898928, 10264.179688>) Entered the safezone
+14:04:17.957 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to sell ammo_22 x1 at the trader "Weapons (Gabi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:04:18.019 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has sold ammo_22 x1 at the trader "Weapons (Gabi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 0.
+14:04:19.632 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to sell ammo_22 x1 at the trader "Weapons (Gabi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:04:19.691 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has sold ammo_22 x1 at the trader "Weapons (Gabi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 0.
+14:04:21.496 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to sell ammo_22 x1 at the trader "Weapons (Gabi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:04:21.558 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has sold ammo_22 x1 at the trader "Weapons (Gabi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 0.
+14:04:27.906 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to sell ammo_22 x1 at the trader "Weapons (Gabi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+14:04:27.960 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has sold ammo_22 x1 at the trader "Weapons (Gabi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 0.
+14:05:52.476 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:07:07.261 [Expansion Quests] - CreateQuestInstance - Created new quest instance for player with UID UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog= for quest 20
+14:13:44.800 [Safezone] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog= pos=<8260.704102, 15.012458, 10791.861328>) Left the safezone
+14:58:30.609 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Basebuilding

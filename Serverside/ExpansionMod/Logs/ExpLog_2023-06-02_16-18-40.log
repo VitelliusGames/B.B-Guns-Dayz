@@ -1,0 +1,96 @@
+16:20:18.621 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8548.559570, 15.931614, 10521.707031>) Entered the safezone
+16:20:18.621 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+16:20:18.632 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+16:20:18.632 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+16:23:59.691 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer
+16:26:15.347 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+17:42:51.648 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8589.133789, 14.821803, 10531.601563>) Entered the safezone
+17:42:51.648 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+17:42:51.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+17:42:51.656 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+17:43:23.046 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+17:43:23.046 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 8 - Creator UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+17:43:23.046 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+17:43:23.046 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+17:43:23.046 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 20 - Creator UID: UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=
+17:43:24.867 [AI Patrol] Spawning 4 Shamans bots at <6698.122070, 16.258600, 11130.530273>
+17:43:25.167 [AI Patrol] Spawning 3 Shamans bots at <6815.434570, 1.048038, 10040.902344>
+17:44:19.753 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<6803.367188, 15.012488, 11662.012695>) Left the safezone
+17:45:35.171 [AI Patrol] Spawning 4 Shamans bots at <6952.055176, 1.431040, 11948.922852>
+17:50:51.714 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Military
+17:53:24.660 [ExplosionDamageSystem] About to explode FFY_UWUSound_Grenade_Ammo from FFY_UWUSound_Grenade<5052cb80> at <7328.52, 45.42, 10548.1> EXPLOSION range 20 dropoff 5
+17:58:55.554 [AI Patrol] Spawning 2 Shamans bots at <5574.020020, 50.553505, 10956.601563>
+17:59:00.187 [AI Patrol] Spawning 4 Shamans bots at <5443.558594, 8.244209, 10171.099609>
+18:02:00.187 [AI Patrol] Spawning 4 Shamans bots at <7692.412109, 41.494843, 7988.273438>
+18:15:40.679 [Expansion Quests] - CompleteQuest - Player with UID UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog= has completed quest 8
+18:15:45.187 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8582.877930, 22.740242, 10513.521484>) Entered the safezone
+18:15:51.914 [Safezone] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog= pos=<8584.094727, 20.004559, 10502.958008>) Entered the safezone
+18:16:17.796 [Expansion Quests] - CompleteQuest - Player with UID UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog= has completed quest 20
+18:18:10.703 [AI Patrol] Spawning 2 Shamans bots at <3976.646484, 121.279449, 7181.921875>
+18:18:15.796 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<3214.170654, 121.481728, 7534.689453>) Left the safezone
+18:18:27.406 [Safezone] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog= pos=<3214.451904, 121.534966, 7534.693848>) Left the safezone
+18:19:39.484 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has send a requested to sell expansionlaw x1 at the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<3195.000000, 118.300003, 7508.859863>).
+18:19:39.609 [Market] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog=) has sold expansionlaw x1 at the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<3195.000000, 118.300003, 7508.859863>) and got 937.
+18:23:54.078 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8594.195313, 14.720000, 10520.661133>) Entered the safezone
+18:23:59.828 [Safezone] Player "Cirden Fang" (id=UZN5tGltNt75yakvnHMBRC6DCs3uZE5B00cvrHgEpog= pos=<8594.997070, 14.732413, 10516.160156>) Entered the safezone
+18:24:31.765 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+18:52:26.148 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lctJpwCAP5lfN_xRcJvtFCXS84EBRUNIh8i5lRixKTc=
+18:52:57.429 [SpawnSelection] Player "Cdawg1899" (id=lctJpwCAP5lfN_xRcJvtFCXS84EBRUNIh8i5lRixKTc=) spawned at <6283.334473, 2.935929, 5781.833008>
+18:53:00.265 [AI Patrol] Spawning 4 Shamans bots at <5726.858887, 110.714127, 6280.713867>
+19:17:24.742 [MissionAirdrop] An airdrop is heading towards "Jalovisko" (pos=<8008.000000, 0.000000, 10747.000000> type=Random_Jalovisko) with a ExpansionAirdropContainer_Military
+19:28:36.695 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: lctJpwCAP5lfN_xRcJvtFCXS84EBRUNIh8i5lRixKTc=
+19:28:40.976 [AI Patrol] Spawning 3 Shamans bots at <4671.157227, 22.389519, 10877.902344>
+19:28:53.632 [SpawnSelection] Player "Cdawg1899" (id=lctJpwCAP5lfN_xRcJvtFCXS84EBRUNIh8i5lRixKTc=) spawned at <7220.497559, 2.426603, 11889.622070>
+20:44:44.765 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer_Military_OliveCamo2
+22:05:20.609 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+22:05:20.625 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+22:05:20.625 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+22:08:19.226 [VehicleCarKey] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= pos=<5212.541992, 31.301344, 8577.930664>) used the  ExpansionCarKey to unlock Offroad_02 (id=E1C650F4284EF91542400FBB41123F84 pos=<5211.047363, 31.124531, 8575.452148>)
+22:08:52.609 [Safezone] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= pos=<8575.434570, 14.784672, 10489.528320>) Entered the safezone
+22:09:09.812 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:10.882 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:11.367 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:11.695 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:11.843 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:12.046 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:12.187 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:12.375 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:12.546 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:12.703 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 100000 on his ATM account.
+22:09:27.359 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 400000 on the party "Nighteriders" (partyid=1 | ownerid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) ATM account.
+22:09:34.500 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 600000 on the party "Nighteriders" (partyid=1 | ownerid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) ATM account.
+22:09:44.546 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 400000 on his ATM account.
+22:09:54.015 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has deposited 1067 on his ATM account.
+22:10:08.109 [ATM] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has withdrawn 500000 from the party "Nighteriders" (partyid=1 | ownerid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) ATM account.
+22:10:42.625 [Safezone] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= pos=<5224.375488, 31.314741, 8588.645508>) Left the safezone
+22:11:24.078 [VehicleCarKey] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= pos=<5210.783203, 31.022402, 8572.266602>) used the  ExpansionCarKey to lock Offroad_02 (id=E1C650F4284EF91542400FBB41123F84 pos=<5211.047363, 31.124531, 8575.452148>)
+22:11:30.773 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Military
+22:15:12.335 [BaseRaiding] ExpansionWall6x3 (<5200.546387, 31.324728, 8541.279297>) Damaged player "DKGreear12" (ID = "zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=" at <5201.217285, 31.344309, 8541.784180>) by 10 health points. Reason: Failed to enter the correct code.
+22:15:12.335 [BaseRaiding] ExpansionWall6x3 (<5200.546387, 31.324728, 8541.279297>) The correct code was 011795 and the player tried 011759
+22:18:25.968 [VehicleCarKey] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= pos=<5212.970703, 31.022501, 8574.208008>) used the  ExpansionCarKey to unlock Offroad_02 (id=E1C650F4284EF91542400FBB41123F84 pos=<5211.047363, 31.124531, 8575.452148>)
+22:18:31.335 [VehicleEnter] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] entered vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5211.047363, 31.124523, 8575.452148>) as driver
+22:18:39.859 [VehicleEngine] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] started vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5211.047363, 31.124529, 8575.452148>)
+22:19:26.281 [AI Patrol] Spawning 2 Shamans bots at <5280.719727, 52.899586, 9622.530273>
+22:20:49.210 [VehicleEngine] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] stopped vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5035.371582, 69.472801, 8924.487305>)
+22:21:03.695 [VehicleLeave] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] left vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5035.372070, 69.472801, 8924.487305>)
+22:29:06.171 [VehicleEnter] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] entered vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5035.371582, 69.472839, 8924.487305>) as driver
+22:31:24.406 [VehicleLeave] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] left vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5035.372559, 69.473000, 8924.488281>)
+22:32:52.773 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+22:34:09.921 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+22:34:09.929 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+22:34:09.929 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+22:34:35.242 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+22:34:35.250 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+22:34:35.250 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+22:43:10.757 [AI Patrol] Spawning 4 Shamans bots at <4803.892090, 87.925446, 6645.502930>
+22:45:49.734 [VehicleEnter] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] entered vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5035.372559, 69.473038, 8924.488281>) as driver
+22:45:53.984 [VehicleEngine] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] started vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5035.372559, 69.473015, 8924.488281>)
+22:47:07.078 [VehicleEngine] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] stopped vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5209.429199, 31.028128, 8571.462891>)
+22:47:11.421 [VehicleLeave] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] left vehicle HUMMC (id=E1C650F4284EF91542400FBB41123F84 pos=<5209.428711, 31.028130, 8571.462891>)
+22:58:27.531 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+22:59:52.414 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+22:59:52.421 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+22:59:52.421 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+23:16:01.515 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+23:16:13.875 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+23:40:41.937 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer

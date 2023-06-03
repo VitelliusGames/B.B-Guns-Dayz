@@ -1,0 +1,47 @@
+10:39:25.937 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+10:39:25.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+10:39:25.945 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+10:39:25.945 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+10:39:27.390 [AI Patrol] Spawning 2 West bots at <6153.473145, 11.946678, 11560.912109>
+10:39:27.941 [AI Patrol] Spawning 4 West bots at <6563.780273, 19.633556, 10906.864258>
+10:42:07.390 [AI Patrol] Spawning 4 West bots at <6933.106934, 9.910077, 11807.766602>
+10:47:22.398 [AI Patrol] Spawning 3 West bots at <7021.328125, 1.337951, 9993.620117>
+10:50:57.957 [AI Patrol] Spawning 3 West bots at <4734.982422, 17.731871, 10972.136719>
+10:51:39.007 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+10:59:29.355 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8606.814453, 14.732444, 10496.015625>) Entered the safezone
+10:59:49.980 [Expansion Quests] - CompleteQuest - Player with UID QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg= has completed quest 14
+10:59:51.031 [Safezone] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg= pos=<8573.399414, 14.772453, 10506.435547>) Entered the safezone
+11:01:10.125 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8002.358398, 16.932632, 11436.250977>) Left the safezone
+11:01:12.273 [VehicleDeleted] ExpansionVodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8007.344727, 19.238655, 11437.500977>)
+11:01:23.109 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8572.215820, 14.815816, 10489.788086>) Entered the safezone
+11:02:28.582 [Safezone] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg= pos=<1230.835327, 2.012500, 11842.685547>) Left the safezone
+11:02:43.308 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<1240.306763, 2.272934, 11830.292969>) Left the safezone
+11:05:47.433 [AI Patrol] Spawning 4 West bots at <5636.216797, 22.047644, 10087.118164>
+11:07:37.437 [AI Patrol] Spawning 2 West bots at <5241.316895, 51.987904, 9597.558594>
+11:08:30.191 [Killfeed] thatguy404 got killed by Survivor with AUR A1 from a distance of 10 m.
+11:08:46.019 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+11:08:58.449 [SpawnSelection] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=) spawned at <7999.422852, 4.917540, 7135.880859>
+11:10:38.710 [Killfeed] Vitellius got killed by Survivor with AUR AX from a distance of 6 m.
+11:10:54.011 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+11:10:54.011 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+11:11:03.214 [SpawnSelection] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) spawned at <8673.834961, 2.655312, 10926.909180>
+11:11:20.613 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8651.875977, 6.281626, 10905.775391>) Entered the safezone
+11:11:37.550 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<7953.841309, 35.577164, 10690.757813>) Left the safezone
+11:20:23.507 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<32202b00> at <5717.52, 16.33, 9409.26> EXPLOSION range 12 dropoff 3
+11:21:02.117 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<32202b00> at <5691.66, 9.88, 9426.56> EXPLOSION range 12 dropoff 3
+11:23:40.015 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+11:39:09.183 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+11:39:09.183 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 8 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+11:39:09.183 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+11:39:09.183 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+11:41:21.578 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=8595FAE3C34A0D37138D01930F178EEB pos=<5687.844727, 21.832674, 10011.717773>) as driver
+11:41:25.796 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] started vehicle Land Rover Defender (id=8595FAE3C34A0D37138D01930F178EEB pos=<5687.845215, 21.832674, 10011.717773>)
+11:43:10.277 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] stopped vehicle Land Rover Defender (id=8595FAE3C34A0D37138D01930F178EEB pos=<6692.548828, 13.555529, 10249.760742>)
+11:43:15.578 [VehicleLeave] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] left vehicle Land Rover Defender (id=8595FAE3C34A0D37138D01930F178EEB pos=<6692.548828, 13.555529, 10249.760742>)
+11:43:38.398 [VehicleDeleted] Expansion_Landrover_Orange (id=8595FAE3C34A0D37138D01930F178EEB pos=<6692.548828, 13.555539, 10249.760742>)
+11:44:37.531 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Mh-6 Little Bird (id=20C9331FFB44F18686D050A349C0165C pos=<6692.211914, 13.615316, 10253.111328>) as pilot
+11:44:42.714 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] started vehicle Mh-6 Little Bird (id=20C9331FFB44F18686D050A349C0165C pos=<6692.211914, 13.615315, 10253.111328>)
+11:45:53.562 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] stopped vehicle Mh-6 Little Bird (id=20C9331FFB44F18686D050A349C0165C pos=<6994.371094, 340.034241, 11077.052734>)
+11:46:36.578 [VehicleLeave] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] left vehicle Mh-6 Little Bird (id=20C9331FFB44F18686D050A349C0165C pos=<7401.988281, 30.779480, 10606.952148>)
+11:46:50.113 [VehicleDeleted] ExpansionMh6_Shadow (id=20C9331FFB44F18686D050A349C0165C pos=<7401.967285, 30.627092, 10607.474609>)
+11:51:09.398 [Expansion Quests] - CompleteQuest - Player with UID QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg= has completed quest 8

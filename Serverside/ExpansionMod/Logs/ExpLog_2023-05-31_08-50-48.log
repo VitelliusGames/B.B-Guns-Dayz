@@ -1,0 +1,77 @@
+08:54:14.439 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+08:54:14.447 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:54:14.447 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:54:14.447 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:54:43.937 [Territory] Admin "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) deleted territory Test at <162.364075, 2.000000, 12568.999023>
+08:55:08.345 [Territory] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) created territory 2323 at <163.477890, 2.000000, 12576.199219>
+08:56:07.009 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Military
+08:56:20.058 [Territory] Admin "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) deleted territory 2323 at <163.477890, 2.000000, 12576.199219>
+08:57:37.582 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase snafu_modbipod x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>).
+08:57:37.744 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought snafu_modbipod x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>) for a price of 400.
+09:00:30.406 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase gcgn_hk416_mag x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>).
+09:00:30.546 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought gcgn_hk416_mag x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>) for a price of 520.
+09:00:35.330 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase gcgn_hk416_mag x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>).
+09:00:35.468 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought gcgn_hk416_mag x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>) for a price of 520.
+09:00:38.703 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase gcgn_hk416_mag x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>).
+09:00:38.851 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought gcgn_hk416_mag x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>) for a price of 520.
+09:11:33.472 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+09:11:33.480 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+09:11:33.484 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 7 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+09:11:33.484 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+09:15:19.894 [VehicleCover] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5279.151855, 34.796223, 8565.917969>) uncovered vehicle "Sedan_02" (GlobalID=80000000800000008000000080000357 pos=<5281.177246, 35.160389, 8564.667969>)!
+09:15:33.773 [VehicleCarKey] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5279.595703, 35.131832, 8565.851563>) used the  ExpansionCarKey to unlock Sedan_02 (id=E180183CE546C6EF8CD30585AD719716 pos=<5281.130859, 35.143242, 8564.582031>)
+09:16:03.398 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5281.097656, 35.130821, 8564.517578>) as driver
+09:16:13.222 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5280.905762, 35.054916, 8564.136719>)
+09:16:32.410 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5230.291504, 31.041000, 8560.592773>)
+09:16:36.804 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5230.292480, 31.040998, 8560.592773>)
+10:00:24.500 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+10:01:27.800 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+10:01:27.808 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+10:01:27.808 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+10:01:27.808 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+10:03:41.269 [Territory] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) created territory Nightrider Central at <5228.451660, 35.635040, 8591.879883>
+10:05:27.488 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5230.292480, 31.040993, 8560.591797>) as driver
+10:05:30.660 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5230.292969, 31.040934, 8560.591797>)
+10:05:55.160 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5211.889648, 30.990074, 8590.347656>)
+10:06:02.082 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5211.890137, 30.990076, 8590.346680>)
+10:09:44.601 [BaseRaiding] ExpansionWall6x3 (<5230.239746, 31.478619, 8586.777344>) Code set by player "Vitellius" (ID = "QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=" at <5229.381348, 31.479494, 8585.873047>) and the code is 0117
+10:10:01.156 [BaseRaiding] ExpansionWall6x3 (<5232.049805, 35.437847, 8582.244141>) Code set by player "Vitellius" (ID = "QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=" at <5232.331055, 35.479706, 8583.129883>) and the code is 0117
+10:12:08.664 [VehicleCarKey] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5212.559570, 31.023493, 8588.758789>) used the  ExpansionCarKey to lock Sedan_02 (id=E180183CE546C6EF8CD30585AD719716 pos=<5211.890137, 30.990091, 8590.347656>)
+10:21:46.039 [MissionAirdrop] An airdrop is heading towards "Lubjansk" (pos=<4680.000000, 0.000000, 10872.000000> type=Random_Lubjansk) with a ExpansionAirdropContainer_Medical
+10:22:24.492 [VehicleCarKey] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5212.109863, 31.022387, 8588.785156>) used the  ExpansionCarKey to unlock Sedan_02 (id=E180183CE546C6EF8CD30585AD719716 pos=<5211.890137, 30.990091, 8590.347656>)
+10:22:30.828 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5211.890137, 30.990080, 8590.346680>) as driver
+10:22:36.183 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5211.890625, 30.990103, 8590.346680>)
+10:22:52.199 [AI Patrol] Spawning 2 Shamans bots at <5204.464844, 58.869999, 9605.685547>
+10:24:37.203 [AI Patrol] Spawning 4 Shamans bots at <4913.534180, 10.340000, 10390.129883>
+10:25:18.089 [AI Patrol] Spawning 4 Shamans bots at <6670.469238, 17.740000, 10985.998047>
+10:26:07.507 [AI Patrol] Spawning 3 Shamans bots at <4798.057617, 13.880000, 11292.672852>
+10:27:17.257 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4715.984863, 16.905521, 10673.474609>)
+10:27:23.511 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4715.988770, 16.905422, 10673.473633>)
+10:29:45.964 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4715.990234, 16.905376, 10673.473633>) as driver
+10:29:48.472 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4715.992188, 16.905313, 10673.473633>)
+10:30:01.167 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4718.638184, 14.998924, 10712.396484>)
+10:30:04.730 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4718.638184, 14.998936, 10712.396484>)
+10:40:14.601 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4718.638184, 14.998923, 10712.396484>) as driver
+10:40:18.183 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4718.638184, 14.998920, 10712.396484>)
+10:40:41.210 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4679.791504, 21.957083, 10885.366211>)
+10:40:44.164 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4679.791504, 21.957066, 10885.366211>)
+10:41:04.386 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4679.790527, 21.957088, 10885.366211>) as driver
+10:41:07.882 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<4679.790527, 21.957075, 10885.366211>)
+10:42:52.238 [AI Patrol] Spawning 2 Shamans bots at <6179.593750, 11.415131, 11639.171875>
+10:43:47.539 [AI Patrol] Spawning 4 Shamans bots at <6935.671875, 5.448250, 11836.924805>
+10:45:07.242 [AI Patrol] Spawning 3 Shamans bots at <6901.012207, 3.587936, 10060.297852>
+10:46:52.214 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8230.263672, 15.556719, 10616.034180>) Entered the safezone
+10:47:34.769 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<8574.100586, 14.772205, 10486.250000>)
+10:47:41.343 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<8574.100586, 14.772226, 10486.250000>) as driver
+10:47:43.839 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<8574.100586, 14.772242, 10486.250000>)
+10:48:06.390 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<8589.854492, 14.695914, 10510.463867>)
+10:48:17.171 [Market] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) has send a requested to purchase pistolsuppressor x1 from the trader "Attachments (Irena [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+10:48:17.257 [Market] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) has bought pistolsuppressor x1 from the trader "Attachments (Irena [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 15.
+10:50:20.777 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<8589.854492, 14.695881, 10510.463867>) as driver
+10:50:33.742 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<8589.854492, 14.695908, 10510.463867>)
+10:51:35.726 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8028.972656, 17.332666, 10519.262695>) Left the safezone
+10:59:39.207 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5219.662598, 31.072964, 8588.208008>)
+10:59:42.558 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=E180183CE546C6EF8CD30585AD719716 pos=<5219.662598, 31.072968, 8588.208008>)
+11:06:36.378 [VehicleCarKey] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5220.757813, 31.128923, 8587.040039>) used the  ExpansionCarKey to lock Sedan_02 (id=E180183CE546C6EF8CD30585AD719716 pos=<5219.662109, 31.072960, 8588.208984>)
+11:23:51.281 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+11:24:50.636 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)

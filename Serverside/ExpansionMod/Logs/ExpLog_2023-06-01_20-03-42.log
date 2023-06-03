@@ -1,0 +1,14 @@
+20:05:00.632 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8559.621094, 15.931740, 10513.608398>) Entered the safezone
+20:05:00.632 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+20:05:00.640 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+20:05:00.640 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+20:05:09.375 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+20:05:09.390 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+20:05:09.390 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+20:05:12.515 [AI Patrol] Spawning 2 Shamans bots at <5267.431152, 59.069759, 9553.884766>
+20:06:39.421 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<5234.214844, 35.510746, 8588.512695>) Left the safezone
+20:07:00.281 [VehicleCarKey] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= pos=<5219.239746, 31.068285, 8590.984375>) used the  ExpansionCarKey to unlock Offroad_02 (id=E1C650F4284EF91542400FBB41123F84 pos=<5217.978027, 31.101635, 8588.145508>)
+20:08:51.648 [Safezone] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= pos=<8586.928711, 14.720916, 10509.890625>) Entered the safezone
+20:11:45.273 [Safezone] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= pos=<5233.862793, 35.492493, 8589.333008>) Left the safezone
+20:20:40.921 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+20:20:48.804 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)

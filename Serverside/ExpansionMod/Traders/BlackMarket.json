@@ -1,0 +1,47 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Black Market",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Skull 3",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Explosives_And_Grenades",
+        "Snafu_Ammo",
+        "Snafu_Bipods",
+        "Snafu_Extras",
+        "Snafu_Grips",
+        "Snafu_Handguards",
+        "Snafu_Mags",
+        "Snafu_Scopes",
+        "Snafu_Stocks",
+        "Snafu_Suppressors",
+        "Snafu_Shotguns",
+        "Snafu_Sniper_Rifles",
+        "Snafu_Rifles",
+        "Snafu_Submachine_Guns",
+        "Snafu_Lightmachine_Guns",
+        "Sniper_Pistols",
+        "MSFC_TypesNVG",
+        "Sniper_Rifles",
+        "Ghillies"
+    ],
+    "Items": {
+        "expansionammorpg": 1,
+        "nvgoggles": 1,
+        "nvgheadstrap": 1,
+        "ammo_expansion_m203_sticky_smoke_teargas": 1,
+        "battery9v": 1,
+        "expansionlaw": 1,
+        "expansionammolaw": 1,
+        "ammo_expansion_m203_sticky_smoke_white": 1,
+        "ammo_expansion_m203_smoke_white": 1,
+        "expansionrpg7": 1,
+        "ammo_expansion_m203_smoke_teargas": 1,
+        "rangefinder": 1,
+        "ammo_expansion_m203_he": 1,
+        "expansionsatchel": 2
+    }
+}

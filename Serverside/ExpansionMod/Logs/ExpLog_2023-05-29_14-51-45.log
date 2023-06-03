@@ -1,0 +1,71 @@
+14:52:31.285 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:52:31.292 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+14:52:31.292 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+14:52:31.292 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+14:52:34.136 [AI Patrol] Spawning 4 Shamans bots at <6511.465332, 19.501991, 11882.574219>
+14:52:34.816 [AI Patrol] Spawning 2 Shamans bots at <6149.577637, 15.109644, 11492.608398>
+14:52:36.796 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:52:36.804 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+14:52:36.804 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+14:53:22.289 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:53:22.296 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:53:22.296 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:53:22.300 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:53:35.492 [Party] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:53:35.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:53:35.500 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:53:35.500 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:53:35.500 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 20 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:55:03.570 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6749.525879, 14.854925, 11149.120117>) as driver
+14:55:08.453 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] started vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6749.525879, 14.854919, 11149.121094>)
+14:56:35.066 [VehicleLeave] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] left vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6619.712402, 15.001495, 11378.995117>)
+14:56:55.203 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6619.712402, 15.001495, 11378.995117>) as driver
+14:56:57.496 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] started vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6619.712402, 15.001495, 11378.995117>)
+14:57:57.882 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] stopped vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6616.416992, 15.258303, 11363.259766>)
+14:58:02.148 [VehicleLeave] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] left vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6616.416992, 15.258302, 11363.259766>)
+14:59:07.234 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6616.416992, 15.258303, 11363.259766>) as driver
+14:59:10.781 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] started vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6616.416992, 15.258302, 11363.259766>)
+14:59:59.828 [AI Patrol] Spawning 4 Shamans bots at <6920.773926, 15.144931, 11438.798828>
+15:01:15.949 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6136.358398, 17.269533, 11435.447266>) as passenger
+15:02:01.117 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6421.717773, 20.634932, 11554.752930>)
+15:03:59.468 [AI Patrol] Spawning 3 Shamans bots at <4712.703125, 18.859413, 10891.271484>
+15:04:34.976 [AI Patrol] Spawning 4 Shamans bots at <4595.451660, 2.110021, 10179.071289>
+15:05:48.683 [ExplosionDamageSystem] About to explode FFY_UWUSound_Grenade_Ammo from FFY_UWUSound_Grenade<65239240> at <6670.92, 9.21, 11910.2> EXPLOSION range 20 dropoff 5
+15:06:05.214 [ExplosionDamageSystem] About to explode FFY_UWUSound_Grenade_Ammo from FFY_UWUSound_Grenade<d4d11360> at <6672.56, 10.95, 11883.2> EXPLOSION range 20 dropoff 5
+15:06:20.152 [ExplosionDamageSystem] About to explode FFY_UWUSound_Grenade_Ammo from FFY_UWUSound_Grenade<d4d0e520> at <6663.78, 10.31, 11888> EXPLOSION range 20 dropoff 5
+15:06:26.542 [Killfeed] Vitellius got run over by thatguy404 with a Land Rover Defender.
+15:06:32.890 [ExplosionDamageSystem] About to explode FFY_UWUSound_Grenade_Ammo from FFY_UWUSound_Grenade<65239dd0> at <6685.08, 12.72, 11868.9> EXPLOSION range 20 dropoff 5
+15:06:48.800 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+15:06:48.804 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+15:06:50.554 [ExplosionDamageSystem] About to explode FFY_UWUSound_Grenade_Ammo from FFY_UWUSound_Grenade<65235870> at <6668.3, 14.06, 11843.5> EXPLOSION range 20 dropoff 5
+15:06:54.316 [SpawnSelection] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) spawned at <6075.745605, 2.194679, 5531.776855>
+15:08:52.843 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] stopped vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<4513.983398, 14.137955, 11056.540039>)
+15:08:56.308 [VehicleLeave] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] left vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<4513.983398, 14.137967, 11056.540039>)
+15:10:08.378 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<4513.983887, 14.137977, 11056.539063>) as driver
+15:10:10.882 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<97e35800> at <4612.71, 3.46, 11154.5> EXPLOSION range 12 dropoff 3
+15:10:11.136 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<4513.983398, 14.137974, 11056.540039>) as passenger
+15:10:18.187 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] started vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<4513.983398, 14.137959, 11056.540039>)
+15:10:47.148 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<97e36110> at <4526.57, 13.24, 11062.7> EXPLOSION range 12 dropoff 3
+15:10:53.152 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<cf4b6b10> at <4539.62, 14.27, 11074> EXPLOSION range 12 dropoff 3
+15:10:59.066 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<cf4b7420> at <4514.54, 14.45, 11062.9> EXPLOSION range 12 dropoff 3
+15:11:05.039 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<cf4b34b0> at <4539.7, 14.35, 11074.1> EXPLOSION range 12 dropoff 3
+15:11:43.351 [VehicleEnter] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] entered vehicle HUMMC (id=DD5C618FCD4C28BADA8146B4141B5D4F pos=<4540.598633, 12.508216, 11074.538086>) as driver
+15:11:47.011 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle HUMMC (id=DD5C618FCD4C28BADA8146B4141B5D4F pos=<4540.598633, 12.508212, 11074.538086>)
+15:13:49.164 [AI Patrol] Spawning 3 Shamans bots at <6967.551270, 8.846878, 10093.926758>
+15:13:49.464 [AI Patrol] Spawning 2 Shamans bots at <5494.200195, 49.052422, 9564.387695>
+15:17:39.468 [AI Patrol] Spawning 4 Shamans bots at <7252.393555, 26.600000, 8915.275391>
+15:17:49.171 [AI Patrol] Spawning 4 Shamans bots at <5205.664063, 209.350006, 7492.839355>
+15:19:17.089 [Party] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+15:20:10.539 [Party] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+15:20:10.546 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+15:20:10.546 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+15:20:10.546 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+15:20:10.550 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 20 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+15:20:51.585 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<5520.368652, 117.069511, 8224.611328>) as driver
+15:20:55.851 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] started vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<5520.368652, 117.069504, 8224.611328>)
+15:20:57.792 [Market] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has send a requested to purchase expansionuh1h x1 from the trader "Aircraft (Denis [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "Airstrip Trading Zone" (pos=<6302.000000, 21.209999, 9513.000000>).
+15:20:57.894 [VehicleDeleted] ExpansionUh1h (id=FF6A3607464C50C62F010492F12236DA pos=<-0.010394, 1.483437, 1.416728>)
+15:20:57.906 [Market] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) has bought expansionuh1h x1 from the trader "Aircraft (Denis [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "Airstrip Trading Zone" (pos=<6302.000000, 21.209999, 9513.000000>) for a price of 1715692.
+15:21:14.453 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] stopped vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<5516.198242, 117.296867, 8181.105957>)
+15:21:19.238 [VehicleLeave] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] left vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<5516.198242, 117.296867, 8181.105469>)
+15:23:00.613 [VehicleDeleted] Offroad_02 (id=DD5C618FCD4C28BADA8146B4141B5D4F pos=<6324.602051, 20.545338, 9512.329102>)

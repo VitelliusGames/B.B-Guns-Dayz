@@ -1,0 +1,19 @@
+14:27:44.738 [VehicleDeleted] Hatchback_02 (id=840E0604864FADFA4DFB72B49CFBCA26 pos=<-0.000004, 0.640978, 0.093172>)
+14:32:59.242 [MissionAirdrop] An airdrop is heading towards "Jalovisko" (pos=<8008.000000, 0.000000, 10747.000000> type=Random_Jalovisko) with a ExpansionAirdropContainer_Military
+15:38:04.894 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+15:38:04.902 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+15:38:04.902 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+15:38:04.902 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+15:43:59.183 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase snafu_as50_gun x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>).
+15:43:59.375 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought snafu_as50_gun x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>) for a price of 15000.
+15:44:03.535 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to sell snafu_as50_gun x1 at the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>).
+15:44:03.714 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has sold snafu_as50_gun x1 at the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<1222.410034, 2.012460, 11845.200195>) and got 7500.
+16:00:55.542 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+16:00:55.554 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+16:00:55.554 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 7 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+16:00:55.554 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+16:00:59.441 [AI Patrol] Spawning 2 Shamans bots at <5701.898926, 11.478592, 9410.901367>
+16:01:27.242 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer
+16:10:04.757 [AI Patrol] Spawning 4 Shamans bots at <4734.968750, 7.963602, 9803.355469>
+16:24:40.089 [AI Patrol] Spawning 2 Shamans bots at <4652.168457, 106.615273, 7734.251953>
+16:32:52.203 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)

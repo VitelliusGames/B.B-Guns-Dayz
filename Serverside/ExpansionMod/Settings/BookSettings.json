@@ -1,0 +1,474 @@
+{
+    "m_Version": 4,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "ShowHaBStats": 1,
+    "ShowPlayerFaction": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "General P1",
+            "Rules": [
+                {
+                    "RuleParagraph": "A)",
+                    "RuleText": "No Stream sniping."
+                },
+                {
+                    "RuleParagraph": "B)",
+                    "RuleText": "No racism, sexism, or hate speech of any kind."
+                },
+                {
+                    "RuleParagraph": "C)",
+                    "RuleText": "Abuse of exploits will result in a Ban."
+                },
+                {
+                    "RuleParagraph": "D)",
+                    "RuleText": "Max group size is 5!"
+                },
+                {
+                    "RuleParagraph": "E)",
+                    "RuleText": "Combat loggers will be Banned."
+                }
+            ]
+        },
+        {
+            "CategoryName": "General P2",
+            "Rules": [
+                {
+                    "RuleParagraph": "A)",
+                    "RuleText": "We ask players to interact before they shoot however this does not apply in military zones."
+                },
+                {
+                    "RuleParagraph": "B)",
+                    "RuleText": "Any player caught harassing or bullying another player on the server will Banned."
+                },
+                {
+                    "RuleParagraph": "C)",
+                    "RuleText": "DO NOT broadcast music to the server at anytime, We are a Streamer friendly server."
+                },
+                {
+                    "RuleParagraph": "D)",
+                    "RuleText": "Do not message admins directly for general questions. We have a ticket system for that."
+                },
+                {
+                    "RuleParagraph": "E)",
+                    "RuleText": "Speaking poorly of others on streams, in chats, or elsewhere will not be tolerated."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Rules P1",
+            "Rules": [
+                {
+                    "RuleParagraph": "A)",
+                    "RuleText": "No base without a flag."
+                },
+                {
+                    "RuleParagraph": "B)",
+                    "RuleText": "1 flag per group."
+                },
+                {
+                    "RuleParagraph": "C)",
+                    "RuleText": "No building within 1km of Traders or heavy Military zones."
+                },
+                {
+                    "RuleParagraph": "D)",
+                    "RuleText": "No hoarding vehicles."
+                },
+                {
+                    "RuleParagraph": "E)",
+                    "RuleText": "Do not deploy a flag without the intention of building a base."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Rules P2",
+            "Rules": [
+                {
+                    "RuleParagraph": "A)",
+                    "RuleText": "Inactive bases will be removed after 14 days."
+                },
+                {
+                    "RuleParagraph": "B)",
+                    "RuleText": "Max three cars per base."
+                },
+                {
+                    "RuleParagraph": "C)",
+                    "RuleText": "Do not build on main roads."
+                },
+                {
+                    "RuleParagraph": "D)",
+                    "RuleText": "No tents inside tents."
+                },
+                {
+                    "RuleParagraph": "E)",
+                    "RuleText": "Perimiter traps are allowed."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Trader Rules P1",
+            "Rules": [
+                {
+                    "RuleParagraph": "A)",
+                    "RuleText": "No camping traders."
+                },
+                {
+                    "RuleParagraph": "B)",
+                    "RuleText": "No stealing inside the trader zones."
+                },
+                {
+                    "RuleParagraph": "C)",
+                    "RuleText": "Do not follow people out of the traders to kill them."
+                },
+                {
+                    "RuleParagraph": "D)",
+                    "RuleText": "Do not use Megaphones or hot mic within the traders."
+                },
+                {
+                    "RuleParagraph": "E)",
+                    "RuleText": "Vehicles left inside the traders will be removed."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Trader Rules P2",
+            "Rules": [
+                {
+                    "RuleParagraph": "A)",
+                    "RuleText": "Do not use Trader or Safezones to escape PVP situations."
+                },
+                {
+                    "RuleParagraph": "B)",
+                    "RuleText": "Do not loiter in Trader zones."
+                },
+                {
+                    "RuleParagraph": "C)",
+                    "RuleText": "No stashes within or near Trader zones, They will be removed."
+                },
+                {
+                    "RuleParagraph": "D)",
+                    "RuleText": "No toxic behaviour in the Trader zones. Leave your fights outside!"
+                },
+                {
+                    "RuleParagraph": "E)",
+                    "RuleText": "Private trades are allowed."
+                },
+                {
+                    "RuleParagraph": "F)",
+                    "RuleText": "No stealing in the Trader Zones. This includes touching other players vehicles in anyway!."
+                }
+            ]
+        },
+                {
+                    "CategoryName": "Report a player!",
+                    "Rules": [
+                        {
+                            "RuleParagraph": "Step 1)",
+                            "RuleText": "Create a clip if possible! It will make your case stronger."
+                        },
+                        {
+                            "RuleParagraph": "Step 2)",
+                            "RuleText": "https://discord.gg/2528Y8vABD"
+                        },
+                        {
+                            "RuleParagraph": "Step 3)",
+                            "RuleText": "Create a ticket with your evidence and information on the situation!."
+                        }
+                    ]
+                }
+            ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Homepage",
+            "URL": "https://www.twitch.tv/flufffaceyeti",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Discord",
+            "URL": "https://discord.gg/QcrC2yFkAG",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        },
+        {
+            "Name": "YouTube",
+            "URL": "",
+            "IconName": "YouTube",
+            "IconColor": -65536
+        },
+        {
+            "Name": "Twitter",
+            "URL": "https://twitter.com/FluffFaceYeti",
+            "IconName": "Twitter",
+            "IconColor": -14835214
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "General Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Any information you require can be easily accessed via our Discord, Should you have any issues or need a more in depth answer to something we have a ticket system available so an Admin can better assist you."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Mod Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "We use a variety of Mods to enhance gameplay, We also use some custom scripts and textures. All mods have been selected with the intent of creating a better gameplay experience for everyone."
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "expansionbarbedwirekit",
+                "fencekit",
+                "expansionfloorkit",
+                "expansionhelipadkit",
+                "expansionhescokit",
+                "expansionrampkit",
+                "shelterkit",
+                "expansionstairkit",
+                "territoryflagkit",
+                "expansionwallkit",
+                "watchtowerkit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "expansionlumber1",
+                "expansionlumber1_5",
+                "expansionlumber3",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor"
+            ]
+        }
+    ]
+}

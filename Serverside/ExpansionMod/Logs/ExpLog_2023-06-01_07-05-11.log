@@ -1,0 +1,27 @@
+07:06:15.806 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8567.922852, 15.940205, 10514.743164>) Entered the safezone
+07:06:15.806 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+07:06:15.816 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:06:15.816 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:06:15.826 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:06:54.164 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to sell expansiongoldbar x1 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+07:06:54.326 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has sold expansiongoldbar x1 at the trader "Exchange (Kaito [#STR_EXPANSION_MARKET_TRADER_EXCHANGE])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) and got 10000.
+07:07:34.910 [AI Patrol] Spawning 4 Shamans bots at <6384.802246, 10.700280, 11861.586914>
+07:07:43.890 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<6871.880371, 61.596779, 11296.221680>) Left the safezone
+07:08:15.212 [AI Patrol] Spawning 2 Shamans bots at <5751.000000, 58.851471, 11144.310547>
+07:10:29.910 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Basebuilding
+07:10:30.216 [AI Patrol] Spawning 3 Shamans bots at <4210.315430, 0.818118, 11050.696289>
+07:12:00.218 [AI Patrol] Spawning 4 Shamans bots at <4733.060547, 125.178871, 6471.211914>
+07:12:44.919 [AI Patrol] Spawning 4 Shamans bots at <5297.316895, 252.801971, 7103.216309>
+07:16:14.966 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase snafu_m300bk x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<3195.000000, 118.300003, 7508.859863>).
+07:16:15.119 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought snafu_m300bk x1 from the trader "BlackMarket (Gabi [Black Market])" in market zone "Black Market Trading Zone" (pos=<3195.000000, 118.300003, 7508.859863>) for a price of 17000.
+07:17:04.927 [AI Patrol] Spawning 2 Shamans bots at <3580.273193, 103.400955, 7612.520020>
+07:17:36.425 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+07:30:53.156 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+07:30:53.164 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:30:53.164 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:30:53.164 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:31:34.949 [AI Patrol] Spawning 4 Shamans bots at <7672.959961, 66.855148, 7230.279785>
+07:31:50.765 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8583.329102, 14.846001, 10515.453125>) Entered the safezone
+07:38:54.964 [AI Patrol] Spawning 2 Shamans bots at <5451.683105, 42.854897, 9683.981445>
+07:38:55.263 [AI Patrol] Spawning 3 Shamans bots at <6807.623535, 3.592442, 10084.344727>
+07:39:04.779 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<6310.833008, 21.816505, 9512.291992>) Left the safezone

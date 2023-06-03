@@ -1,0 +1,17 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EXCHANGE",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Exchange"
+    ],
+    "Items": {
+        "ExpansionGoldBar": 2,
+        "ExpansionGoldNugget": 2
+    }
+}

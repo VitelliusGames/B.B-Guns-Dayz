@@ -1,0 +1,30 @@
+{
+    "m_Version": 3,
+    "m_TerritoryID": 3,
+    "m_OwnerUID": "8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=",
+    "m_Vehicles": [
+        {
+            "m_OwnerUIDs": [
+                "8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw="
+            ],
+            "m_ClassName": "Expansion_Landrover",
+            "m_Position": [
+                2198.48193359375,
+                6.298643589019775,
+                5759.81298828125
+            ],
+            "m_Orientation": [
+                -59.92086410522461,
+                14.172232627868653,
+                -0.20343782007694245
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147482371
+            ],
+            "m_SkinName": ""
+        }
+    ]
+}

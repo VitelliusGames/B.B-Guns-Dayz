@@ -1,0 +1,31 @@
+07:51:57.554 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:51:57.554 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 8 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:51:57.554 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:51:57.556 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:53:19.939 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+07:53:20.812 [AI Patrol] Spawning 3 West bots at <6732.664551, 13.301060, 10150.300781>
+07:54:00.740 [AI Patrol] Spawning 2 West bots at <6113.703613, 11.877377, 11642.007813>
+07:54:00.779 [AI Patrol] Spawning 4 West bots at <7359.974609, 23.180000, 11703.389648>
+07:54:40.140 [AI Patrol] Spawning 2 West bots at <5328.742676, 58.869999, 9690.546875>
+07:58:25.746 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase expansionuh1h x1 from the trader "Aircraft (Denis [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "Airstrip Trading Zone" (pos=<6302.000000, 21.209999, 9513.000000>).
+07:58:25.896 [VehicleDeleted] ExpansionUh1h (id=F259EEE99C4BE10DAE3C0EA07E1AAF47 pos=<-0.010394, 1.483437, 1.416728>)
+07:58:25.910 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought expansionuh1h x1 from the trader "Aircraft (Denis [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "Airstrip Trading Zone" (pos=<6302.000000, 21.209999, 9513.000000>) for a price of 1704922.
+07:58:46.142 [VehicleCarKey] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<6318.125488, 20.565771, 9494.877930>) used the  ExpansionCarKey to unlock ExpansionUh1h (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<6316.408691, 20.755384, 9492.911133>)
+07:58:50.976 [VehicleEnter] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] entered vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<6316.389648, 20.756111, 9492.912109>) as passenger
+07:58:54.843 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<6316.374023, 20.756805, 9492.913086>) as pilot
+07:59:27.205 [VehicleLeave] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] left vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<6316.250977, 20.761618, 9492.924805>)
+07:59:29.582 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<6316.242676, 20.762007, 9492.925781>)
+07:59:34.123 [VehicleEnter] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] entered vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<6316.226074, 20.762568, 9492.927734>) as pilot
+07:59:40.736 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<6316.202637, 20.763437, 9492.931641>) as passenger
+07:59:44.707 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle UH-1H (Locked) (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<6316.188477, 20.764006, 9492.934570>)
+08:00:20.152 [AI Patrol] Spawning 4 West bots at <5119.720215, 11.485287, 9906.378906>
+08:00:40.152 [AI Patrol] Spawning 3 West bots at <4517.205566, 21.774424, 10815.933594>
+08:01:15.164 [AI Patrol] Spawning 2 West bots at <2890.127686, 2.000000, 11112.491211>
+08:03:12.490 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] stopped vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<2534.555664, 2.366041, 11196.961914>)
+08:03:14.664 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<2534.543701, 2.267045, 11196.944336>)
+08:03:18.435 [VehicleLeave] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] left vehicle UH-1H (id=D979BC637B44C02F0CBBC1815FB17D56 pos=<2534.531494, 2.148178, 11196.898438>)
+08:04:00.457 [AI Patrol] Spawning 2 West bots at <1356.790283, 2.000000, 12018.196289>
+08:05:15.498 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<47f4ffc0> at <2662.37, 6.13, 11137.9> EXPLOSION range 5 dropoff 2.5
+08:05:15.500 [Killfeed] FluffFaceYeti was killed by an explosion caused by Satchel Charge.
+08:05:24.355 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:05:29.861 [SpawnSelection] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) spawned at <4073.524658, 4.821608, 4738.167480>

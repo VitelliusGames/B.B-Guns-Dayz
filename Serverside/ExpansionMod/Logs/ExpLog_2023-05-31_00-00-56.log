@@ -1,0 +1,17 @@
+00:06:15.129 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+00:06:55.371 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+00:06:55.378 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+00:06:55.379 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 7 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+00:06:55.379 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+00:06:55.953 [AI Patrol] Spawning 2 Shamans bots at <5713.294434, 12.264861, 9419.307617>
+00:06:56.083 [AI Patrol] Spawning 3 Shamans bots at <6754.732422, 12.413897, 10157.868164>
+00:12:42.012 [VehicleCarKey] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<6342.471680, 20.970282, 9396.046875>) used the  ExpansionCarKey to unlock Sedan_02 (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6341.830566, 20.946630, 9394.850586>)
+00:12:47.805 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6341.830078, 20.946627, 9394.850586>) as driver
+00:12:50.822 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] started vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6341.830566, 20.946621, 9394.850586>)
+00:13:17.964 [VehicleEngine] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] stopped vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.060547, 20.954737, 9404.621094>)
+00:13:34.749 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.062012, 20.954752, 9404.621094>)
+00:13:36.612 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) joinded the party "Nighteriders" (id=1 ownerUID=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA= ownerName=DKGreear12)
+00:13:36.619 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+00:13:36.619 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+00:13:53.209 [VehicleEnter] Player DKGreear12 [uid=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.062012, 20.954750, 9404.621094>) as passenger
+00:13:55.996 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle SARKA 1.6i (id=D9664D08E54932FCC960B3BD41AE3E2E pos=<6330.062012, 20.954742, 9404.621094>) as driver

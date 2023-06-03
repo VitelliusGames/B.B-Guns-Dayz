@@ -1,0 +1,16 @@
+07:20:45.462 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+07:20:45.472 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:20:45.472 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:20:54.757 [AI Patrol] Spawning 4 Shamans bots at <7902.405273, 29.675352, 8945.127930>
+07:21:47.302 [Airdrop] A player called airdrop is heading toward <7746.744629, 0.000000, 9319.691406> with a ExpansionAirdropContainer_Medical
+07:21:57.433 [Airdrop] A player called airdrop is heading toward <7737.751465, 0.000000, 9313.801758> with a ExpansionAirdropContainer_Military_OliveCamo2
+07:22:04.400 [Airdrop] A player called airdrop is heading toward <7745.946777, 0.000000, 9311.362305> with a ExpansionAirdropContainer_Medical
+07:22:13.632 [Airdrop] A player called airdrop is heading toward <7748.453125, 0.000000, 9304.676758> with a ExpansionAirdropContainer_Basebuilding
+07:22:19.763 [Airdrop] A player called airdrop is heading toward <7744.651367, 0.000000, 9302.462891> with a ExpansionAirdropContainer_Military
+07:23:43.033 [Airdrop] A player called airdrop is heading toward <7748.042969, 0.000000, 9331.588867> with a ExpansionAirdropContainer_Basebuilding
+07:23:51.335 [Airdrop] A player called airdrop is heading toward <7736.384277, 0.000000, 9347.967773> with a ExpansionAirdropContainer
+07:24:01.058 [Airdrop] A player called airdrop is heading toward <7745.150391, 0.000000, 9357.121094> with a ExpansionAirdropContainer_Military_OliveCamo2
+07:24:04.902 [AI Patrol] Spawning 3 Shamans bots at <6846.715820, 0.957406, 9804.203125>
+07:24:12.632 [Airdrop] A player called airdrop is heading toward <7736.545898, 0.000000, 9362.628906> with a ExpansionAirdropContainer_Military_OliveCamo2
+07:24:14.080 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Military_OliveCamo2
+07:24:19.335 [Airdrop] A player called airdrop is heading toward <7732.378906, 0.000000, 9373.193359> with a ExpansionAirdropContainer_Military_OliveCamo2

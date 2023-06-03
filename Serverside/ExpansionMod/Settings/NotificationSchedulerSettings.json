@@ -1,0 +1,80 @@
+{
+    "m_Version": 2,
+    "Enabled": 1,
+    "UTC": 0,
+    "UseMissionTime": 0,
+    "Notifications": [
+        {
+            "Hour": 11,
+            "Minute": 0,
+            "Second": 0,
+            "Title": "Restart Warning",
+            "Text": "B.B Guns will restart in 60 minutes!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 11,
+            "Minute": 30,
+            "Second": 0,
+            "Title": "Restart Warning",
+            "Text": "B.B Guns will restart in 30 minutes!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 11,
+            "Minute": 50,
+            "Second": 0,
+            "Title": "Restart Warning",
+            "Text": "B.B Guns will restart in 10 minutes!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 11,
+            "Minute": 58,
+            "Second": 0,
+            "Title": "Final Restart Warning",
+            "Text": "B.B Guns will restart in 2 minutes! Log out now to avoid rollback!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 23,
+            "Minute": 0,
+            "Second": 0,
+            "Title": "Restart Warning",
+            "Text": "B.B Guns will restart in 60 minutes!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 23,
+            "Minute": 30,
+            "Second": 0,
+            "Title": "Restart Warning",
+            "Text": "B.B Guns will restart in 30 minutes!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 23,
+            "Minute": 50,
+            "Second": 0,
+            "Title": "Restart Warning",
+            "Text": "B.B Guns will restart in 10 minutes!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 23,
+            "Minute": 58,
+            "Second": 0,
+            "Title": "Final Restart Warning",
+            "Text": "B.B Guns will restart in 2 minutes! Log out now to avoid rollback!",
+            "Icon": "Info",
+            "Color": ""
+        }
+    ]
+}

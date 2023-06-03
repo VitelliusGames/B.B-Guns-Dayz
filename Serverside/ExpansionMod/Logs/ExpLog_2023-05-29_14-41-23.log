@@ -1,0 +1,21 @@
+14:43:13.113 [Party] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:43:13.121 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:43:13.121 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:43:13.121 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:43:13.125 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 20 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:43:16.730 [AI Patrol] Spawning 2 West bots at <5785.885254, 58.279999, 11028.037109>
+14:43:16.769 [AI Patrol] Spawning 4 West bots at <6214.991211, 14.814425, 11835.940430>
+14:43:49.503 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:43:49.511 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+14:43:49.511 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+14:44:44.625 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:44:44.632 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:44:44.632 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:44:44.632 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:48:56.601 [VehicleCarKey] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg= pos=<6856.050293, 15.268209, 11426.438477>) used the  ExpansionCarKey to unlock Expansion_Landrover (id=7FB22952E24662EED711F9B7F8973400 pos=<6857.008301, 15.342738, 11428.356445>)
+14:49:04.734 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6857.008301, 15.342712, 11428.356445>) as driver
+14:49:09.816 [VehicleEngine] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] started vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6857.008301, 15.342732, 11428.356445>)
+14:50:01.269 [VehicleLeave] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] left vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6749.525879, 14.854920, 11149.121094>)
+14:50:09.632 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6749.525879, 14.854924, 11149.120117>) as driver
+14:50:26.769 [VehicleLeave] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] left vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6749.525879, 14.854920, 11149.121094>)
+14:50:54.503 [VehicleEnter] Player thatguy404 [uid=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=] entered vehicle Land Rover Defender (id=7FB22952E24662EED711F9B7F8973400 pos=<6749.525879, 14.854926, 11149.120117>) as driver

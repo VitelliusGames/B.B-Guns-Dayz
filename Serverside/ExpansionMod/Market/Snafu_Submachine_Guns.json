@@ -1,0 +1,110 @@
+
+{
+	"m_Version": 12,
+	"DisplayName": "SNAFU SubMachine Guns",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"IsExchange": 0,
+	"InitStockPercent":100,
+	"Items":[
+{
+	"ClassName": "SNAFUPPSh",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+},
+{
+	"ClassName": "SNAFU_Agram_GUN",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+},
+{
+	"ClassName": "SNAFUKH9",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+},
+{
+	"ClassName": "SNAFUVECTOR_9mm_GUN",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+},
+{
+	"ClassName": "SNAFUVECTOR_45acp_GUN",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+},
+{
+	"ClassName": "GCGN_MP7",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+},
+{
+	"ClassName": "SNAFUUzi",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+},
+{
+	"ClassName": "Tec9_Gun",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+},
+{
+	"ClassName": "SNAFU_MP9_GUN",
+	"MaxPriceThreshold": 20000,
+	"MinPriceThreshold": 15000,
+	"SellPricePercent": 50,
+	"MaxStockThreshold": 50,
+	"MinStockThreshold": 0,
+	"QuantityPercent": -1,
+	"SpawnAttachments":[],
+	"Variants":[]
+}
+]
+}

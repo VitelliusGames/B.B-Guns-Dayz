@@ -1,0 +1,8 @@
+07:33:24.832 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+07:33:24.839 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:33:24.839 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+07:35:01.205 [Airdrop] A player called airdrop is heading toward <7743.194336, 0.000000, 9321.848633> with a ExpansionAirdropContainer_Military_OliveCamo2
+07:35:05.765 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer
+07:35:10.369 [Airdrop] A player called airdrop is heading toward <7742.832031, 0.000000, 9321.279297> with a ExpansionAirdropContainer_Military
+07:35:18.972 [Airdrop] A player called airdrop is heading toward <7742.610840, 0.000000, 9321.122070> with a ExpansionAirdropContainer_Military_OliveCamo2
+07:36:39.431 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)

@@ -1,0 +1,11 @@
+00:01:07.210 [VehicleDeleted] Expansion_Landrover (id=EBB05BBFDF414A70CDE5AB8A8757571D pos=<-0.004283, 0.705366, 0.335421>)
+00:06:21.986 [MissionAirdrop] An airdrop is heading towards "Lubjansk" (pos=<4680.000000, 0.000000, 10872.000000> type=Random_Lubjansk) with a ExpansionAirdropContainer_Medical
+01:33:54.982 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer_Military
+03:00:21.987 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Basebuilding
+04:27:08.997 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer_Military
+05:53:39.064 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer_Basebuilding
+06:36:06.572 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+06:36:06.582 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+06:36:06.583 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+06:36:06.583 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+06:36:38.859 [AI Patrol] Spawning 2 Shamans bots at <3959.388916, 78.879997, 7737.492676>

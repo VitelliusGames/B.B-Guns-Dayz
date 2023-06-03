@@ -1,0 +1,81 @@
+08:17:18.705 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:17:18.705 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 8 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:17:18.707 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:17:18.707 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+08:17:21.679 [AI Patrol] Spawning 2 West bots at <2796.206787, -0.470193, 10447.783203>
+08:17:52.642 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:17:52.642 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 8 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:17:52.642 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:17:52.642 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:17:52.644 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 14 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:21:44.626 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 14
+08:21:45.431 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8598.488281, 14.720000, 10503.509766>) Entered the safezone
+08:28:24.636 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<2540.135742, 2.012446, 11205.079102>) Left the safezone
+08:33:36.230 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8571.492188, 23.807760, 10517.186523>) Entered the safezone
+08:34:34.880 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8580.740234, 14.744062, 10509.188477>) Entered the safezone
+08:35:25.289 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8582.958008, 14.739737, 10509.698242>) Entered the safezone
+08:35:25.296 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:35:25.296 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 8 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:35:25.296 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:35:25.298 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+08:36:15.478 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<2558.499756, 2.012500, 11210.308594>) Left the safezone
+08:37:03.546 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8583.769531, 14.738427, 10508.208008>) Entered the safezone
+08:37:55.773 [Expansion Quests] - CreateQuestInstance - Created new quest instance for player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= for quest 10
+08:38:57.625 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID= ownerName=)
+08:38:57.626 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) created a party named Admins
+08:39:11.082 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) invited the player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=)to the party named Admins
+08:39:22.283 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+08:40:20.886 [VehicleEnter] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] entered vehicle HUMMC (id=141AEDFCC247285FB4F6E2B79E6E8D02 pos=<8405.015625, 14.909700, 10670.140625>) as driver
+08:40:23.728 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle HUMMC (id=141AEDFCC247285FB4F6E2B79E6E8D02 pos=<8405.015625, 14.909733, 10670.140625>)
+08:40:47.193 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 10
+08:40:53.820 [VehicleLeave] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] left vehicle HUMMC (id=141AEDFCC247285FB4F6E2B79E6E8D02 pos=<8393.760742, 14.939759, 10778.609375>)
+08:42:21.757 [Expansion Quests] - CreateQuestInstance - Created new quest instance for player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= for quest 1
+08:42:44.162 [Expansion Quests] - CreateQuestInstance - Created new quest instance for player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= for quest 21
+08:42:50.408 [Expansion Quests] - CreateQuestInstance - Created new quest instance for player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= for quest 20
+08:43:46.236 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 1
+08:44:14.607 [Expansion Quests] - CreateQuestInstance - Created new quest instance for player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= for quest 2
+08:44:58.681 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8226.686523, 15.120814, 10808.961914>) Left the safezone
+08:44:58.681 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8233.472656, 15.120811, 10806.098633>) Left the safezone
+08:45:26.244 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<7a836690> at <8186.18, 17.52, 10826.7> EXPLOSION range 12 dropoff 3
+08:45:57.388 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<7a835d80> at <8214.37, 16.51, 10765.5> EXPLOSION range 12 dropoff 3
+08:46:19.816 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 8
+08:46:32.359 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<7a83e570> at <8140.54, 16.45, 10775.1> EXPLOSION range 12 dropoff 3
+08:47:29.097 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8282.251953, 13.728477, 10777.468750>) Entered the safezone
+08:47:36.167 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8317.798828, 15.012448, 10779.114258>) Entered the safezone
+08:47:41.505 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8313.625000, 14.919467, 10776.886719>) Entered the safezone
+08:48:00.724 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 2
+08:48:22.322 [Expansion Quests] - CreateQuestInstance - Created new quest instance for player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= for quest 3
+08:48:57.527 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 3
+08:49:23.880 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has send a requested to purchase expansionvodnik x1 from the trader "Vehicles (Hassan [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>).
+08:49:24.044 [VehicleDeleted] ExpansionVodnik (id=9EE3F9F42742AB3A1D938385D9989793 pos=<-0.166367, 1.071071, 0.473506>)
+08:49:24.052 [Market] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) has bought expansionvodnik x1 from the trader "Vehicles (Hassan [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Jalovisko Trading Zone" (pos=<8583.669922, 24.549999, 10515.000000>) for a price of 103977.
+08:49:39.906 [VehicleCarKey] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8582.104492, 14.778271, 10482.164063>) used the  ExpansionCarKey to unlock ExpansionVodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8584.840820, 14.732965, 10483.160156>)
+08:49:44.458 [VehicleEnter] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] entered vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8584.840820, 14.732956, 10483.160156>) as driver
+08:49:49.031 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 20
+08:49:53.144 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 21
+08:49:59.810 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Vodnik (Locked) (id=828AE018004C132CA211C4A566DF0C5B pos=<8584.840820, 14.732958, 10483.160156>)
+08:50:10.404 [VehicleDeleted] Offroad_02 (id=141AEDFCC247285FB4F6E2B79E6E8D02 pos=<8393.760742, 14.939756, 10778.609375>)
+08:50:20.498 [VehicleEnter] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] entered vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8573.226563, 14.777403, 10485.820313>) as passenger
+08:51:06.968 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8476.798828, 19.454414, 11077.810547>) Left the safezone
+08:51:06.968 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8476.053711, 19.460846, 11078.085938>) Left the safezone
+08:51:41.957 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] stopped vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8552.827148, -1.143208, 11357.178711>)
+08:51:48.453 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8553.681641, -1.609483, 11358.913086>)
+08:52:41.970 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] stopped vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8328.616211, -1.238182, 11459.284180>)
+08:52:47.789 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] started vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8329.269531, -1.480457, 11458.545898>)
+08:53:24.800 [VehicleEngine] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] stopped vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8007.346191, 19.238726, 11437.500977>)
+08:53:33.341 [VehicleLeave] Player FluffFaceYeti [uid=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=] left vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8007.344238, 19.238659, 11437.500977>)
+08:53:37.072 [VehicleLeave] Player Vitellius [uid=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=] left vehicle Vodnik (id=828AE018004C132CA211C4A566DF0C5B pos=<8007.344727, 19.238655, 11437.500977>)
+08:54:48.867 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+08:54:58.191 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8584.694336, 14.745291, 10489.805664>) Entered the safezone
+08:55:25.025 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) left the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+10:31:14.636 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<8574.606445, 14.764256, 10507.290039>) Entered the safezone
+10:31:14.636 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+10:31:14.648 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+10:31:14.648 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+10:31:14.648 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+10:32:56.062 [AI Patrol] Spawning 4 West bots at <6608.296387, 15.097723, 11013.923828>
+10:32:56.148 [AI Patrol] Spawning 2 West bots at <6076.960938, 9.996337, 11577.084961>
+10:33:03.707 [Safezone] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<6793.293457, 15.012500, 11680.343750>) Left the safezone
+10:34:41.101 [AdminTools] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<6794.292480, 15.012393, 11679.089844>) used the Admin Hammer to build wood_base
+10:34:49.609 [AdminTools] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<6792.425781, 15.012446, 11678.659180>) used the Admin Hammer to build wood_gateframe
+10:34:56.765 [AdminTools] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= pos=<6792.556641, 15.012441, 11678.272461>) used the Admin Hammer to build wood_gatefinished

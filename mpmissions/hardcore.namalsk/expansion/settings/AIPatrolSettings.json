@@ -1,0 +1,238 @@
+{
+    "m_Version": 15,
+    "Enabled": 1,
+    "DespawnTime": 600.0,
+    "RespawnTime": -1.0,
+    "MinDistRadius": 400.0,
+    "MaxDistRadius": 1000.0,
+    "DespawnRadius": 1100.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "ObjectPatrols": [
+        {
+            "Name": "Main Town",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "",
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 200.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6800.29,
+                    15.0124,
+                    11667.4
+                ],
+                [
+                    6811.41,
+                    15.1717,
+                    11393.9
+                ],
+                [
+                    6619.08,
+                    15.104,
+                    11017.5
+                ],
+                [
+                    6605.45,
+                    15.1104,
+                    11014.5
+                ],
+                [
+                    6800.29,
+                    15.0124,
+                    11667.4
+                ]
+            ]
+        },
+        {
+            "Name": "North Refugee Camp",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "BanditLoadout",
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 200.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7238.63,
+                    45.3423,
+                    10551.6
+                ],
+                [
+                    7353.54,
+                    45.1889,
+                    10548.7
+                ],
+                [
+                    7330.08,
+                    45.2374,
+                    10496.7
+        
+                ],
+                [
+                    7271.78,
+                    45.6181,
+                    10490.4
+                ],
+                [
+                    7239.4,
+                    45.3823,
+                    10550.2
+                ]
+            ]
+        },
+        {
+            "Name": "BK MO6",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "BanditLoadout",
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 200.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4866.23,
+                    13.0912,
+                    10903.3
+                ],
+                [
+                    4802.52,
+                    13.8025,
+                    10791.7
+                ],
+                [
+                    4872.72,
+                    13.1211,
+                    10855.8
+        
+                ],
+                [
+                    4805.69,
+                    13.674,
+                    10852.2
+                ],
+                [
+                    4781.18,
+                    13.8024,
+                    10811.8
+                ]
+            ]
+        },
+        {
+            "Name": "Factory",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "BanditLoadout",
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 200.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7637.19,
+                    71.6118,
+                    8801.18
+                ],
+                [
+                    7649.69,
+                    71.9682,
+                    8729.8
+                ],
+                [
+                    7695.57,
+                    71.8825,
+                    8748.87
+        
+                ],
+                [
+                    7688.76,
+                    71.8824,
+                    8784.64
+                ],
+                [
+                    7660.63,
+                    72.186,
+                    8803.67
+                ]
+            ]
+        }
+    ]
+}

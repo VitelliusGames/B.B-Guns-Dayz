@@ -1,0 +1,21 @@
+14:31:19.441 [Party] Player "thatguy404" (id=QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:31:19.449 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:31:19.449 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:31:19.453 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:31:19.453 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 20 - Creator UID: QjlZXS0Ark29Vwx4GPzro34d4Mh-vfgK6BY62FOJWUg=
+14:31:22.011 [AI Patrol] Spawning 4 West bots at <6937.181641, 6.366770, 11906.042969>
+14:31:22.695 [AI Patrol] Spawning 4 West bots at <6747.666992, 14.736707, 11723.688477>
+14:31:22.968 [AI Patrol] Spawning 2 West bots at <6145.823242, 8.763957, 11604.640625>
+14:32:21.085 [Party] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:32:21.089 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+14:32:21.089 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+14:32:21.093 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+14:32:25.496 [Party] Player "DKGreear12" (id=zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:32:25.503 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:32:25.507 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:32:25.507 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: zhJxvJUIQcTeCgEZ3Xhlvc_WjNMgSdId2I-HV3Jo6tA=
+14:32:42.156 [Party] Player "Vitellius" (id=QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=) joinded the party "Admins" (id=0 ownerUID=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= ownerName=FluffFaceYeti)
+14:32:42.164 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+14:32:42.164 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 9 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+14:32:42.164 [Expansion Quests] - InitClientQuests_NormalQuests - Create new quest instance for quest: 11 - Creator UID: QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo=
+14:35:47.367 [Expansion Quests] - CompleteQuest - Player with UID QOVCOk5flZ8LlxY_vIXEUxFpj4R6rL-wr-TF8_b4xZo= has completed quest 9

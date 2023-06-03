@@ -1,0 +1,16 @@
+05:34:12.595 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw=
+05:34:16.998 [AI Patrol] Spawning 4 West bots at <6760.128906, 14.601907, 11273.899414>
+05:36:03.591 [Expansion Quests] - CompleteQuest - Player with UID 8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= has completed quest 14
+05:36:05.093 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8579.403320, 14.735909, 10512.009766>) Entered the safezone
+05:37:12.394 [AI Patrol] Spawning 4 West bots at <7583.906250, 52.467659, 7878.120117>
+05:37:12.527 [AI Patrol] Spawning 4 West bots at <7940.471191, 31.892262, 8581.301758>
+05:37:17.304 [AI Patrol] Spawning 3 West bots at <6581.524414, 12.839675, 9939.807617>
+05:37:17.527 [AI Patrol] Spawning 2 West bots at <5558.247070, 41.222748, 9510.784180>
+05:37:18.958 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<6305.524902, 20.680000, 9518.896484>) Left the safezone
+05:39:15.154 [VehicleDeleted] ExpansionUh1h_Uber (id=ADCDD3C2AD40CDB527F0878C3E8E8B00 pos=<6317.467285, 20.724596, 9492.208008>)
+05:48:53.566 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<8575.745117, 14.745700, 10513.697266>) Entered the safezone
+05:58:13.640 [Safezone] Player "FluffFaceYeti" (id=8vtfObsTQABYXpVHaEsAuZ5QTEAjCvC2a-AZwd4E5dw= pos=<4165.771973, 390.307892, 6631.321777>) Left the safezone
+05:58:16.740 [AI Patrol] Spawning 4 West bots at <4749.741699, 92.574066, 6379.505371>
+05:58:17.564 [AI Patrol] Spawning 2 West bots at <3699.543945, 90.209999, 7599.298340>
+05:58:22.039 [AI Patrol] Spawning 4 West bots at <5195.137207, 271.205994, 7165.224121>
+05:58:37.041 [AI Patrol] Spawning 4 West bots at <7006.921875, 5.831414, 11849.230469>

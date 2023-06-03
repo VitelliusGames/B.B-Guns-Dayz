@@ -1,0 +1,28 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Blouses_And_Suits",
+        "Coats_And_Jackets",
+        "Shirts_And_TShirts",
+        "Skirts_And_Dresses",
+        "Pants_And_Shorts",
+        "Boots_And_Shoes",
+        "MSFC_Types_BaseColorClothes",
+        "MSFC_TypesATACSAU",
+        "MSFC_TypesATACSFG",
+        "MSFC_TypesMulticam",
+        "MSFC_TypesMulticamBlack",
+        "MSFC_TypesMulticamSnow",
+        "MSFC_TypesMulticamTropic",
+        "MSFC_TypesSURPAT",
+        "MSFC_TypesVelcroPatch"
+    ],
+    "Items": {}
+}
