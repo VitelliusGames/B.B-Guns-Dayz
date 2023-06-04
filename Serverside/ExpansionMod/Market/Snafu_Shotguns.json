@@ -8,8 +8,8 @@
             "Items":[
         {
             "ClassName": "AA12_Gun",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 0,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "SNAFU_Trenchgun",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 0,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "SN_Auto_Shotgun",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 0,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "SNAFU_TP82S",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": 50,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 0,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "Spas12_Gun",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2200,
             "SellPricePercent": 50,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 0,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "SN_M870",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 0,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "SNAFUMarlin1895",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 0,
