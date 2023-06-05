@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "vss",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 20,
             "MinStockThreshold": 0,
@@ -21,8 +21,8 @@
         },
         {
             "ClassName": "asval",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 20,
             "MinStockThreshold": 0,
@@ -46,7 +46,7 @@
         {
             "ClassName": "svd",
             "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 2000,
+            "MinPriceThreshold": 3500,
             "SellPricePercent": 50,
             "MaxStockThreshold": 20,
             "MinStockThreshold": 0,
@@ -71,8 +71,8 @@
         },
         {
             "ClassName": "expansion_awm",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 5000,
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 10000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 20,
             "MinStockThreshold": 0,
