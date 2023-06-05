@@ -147,7 +147,7 @@
         {
             "ClassName": "ammobox_556x45tracer_20rnd",
             "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 100
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
