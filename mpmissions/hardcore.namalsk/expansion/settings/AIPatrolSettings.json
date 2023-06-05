@@ -387,6 +387,226 @@
                     8803.67
                 ]
             ]
+        },
+        {
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "BanditLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "WALK",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 150.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 200.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5696.61,
+                    21.9843,
+                    10011.5
+                ],
+                [
+                    5722.77,
+                    21.8302,
+                    9890.54
+                ],
+                [
+                    5710.04,
+                    21.9343,
+                    9812.5
+    
+                ],
+                [
+                    7688.76,
+                    71.8824,
+                    8784.64
+                ],
+                [
+                    5786.52,
+                    24.3868,
+                    9705.76
+                ]
+            ]
+        },
+        {
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "BanditLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "WALK",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 150.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 200.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5731.98,
+                    51.2281,
+                    8661.84
+                ],
+                [
+                    5817.01,
+                    50.8467,
+                    8624.59
+                ],
+                [
+                    5820.37,
+                    50.8825,
+                    8656.84
+    
+                ],
+                [
+                    5851.88,
+                    51.2566,
+                    8726.77
+                ],
+                [
+                    6018.61,
+                    50.0042,
+                    8750.96
+                ]
+            ]
+        },
+        {
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "BanditLoadout",
+            "NumberOfAI": 8,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "WALK",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 150.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 200.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5168.58,
+                    49.9581,
+                    8061.11
+                ],
+                [
+                    5014.26,
+                    48.9654,
+                    8064.69
+                ],
+                [
+                    4925.76,
+                    48.59,
+                    8096.97
+    
+                ],
+                [
+                    4810.79,
+                    50.0015,
+                    8077.82
+                ],
+                [
+                    4273.48,
+                    78.2573,
+                    8011.94
+                ]
+            ]
+        },
+        {
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "BanditLoadout",
+            "NumberOfAI": 6,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "WALK",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 150.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 200.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7033.5,
+                    40.0225,
+                    5817.7
+                ],
+                [
+                    7260.78,
+                    238.759,
+                    7062.01
+                ],
+                [
+                    5901.44,
+                    50.532,
+                    8723.9
+    
+                ],
+                [
+                    4810.79,
+                    50.0015,
+                    8077.82
+                ],
+                [
+                    4799.72,
+                    13.8328,
+                    10786.6
+                ]
+            ]
         }
     ]
 }
