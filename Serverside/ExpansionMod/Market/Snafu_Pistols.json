@@ -8,8 +8,8 @@
     "Items":[
 {
     "ClassName": "SNAFUAPS",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
@@ -19,8 +19,8 @@
 },
 {
     "ClassName": "SNAFUChiappaRhino",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 1500,
+    "MinPriceThreshold": 750,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
@@ -30,8 +30,8 @@
 },
 {
     "ClassName": "SNAFU_Fort12_GUN",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
@@ -41,8 +41,8 @@
 },
 {
     "ClassName": "SNAFUSWM629",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 2000,
+    "MinPriceThreshold": 1000,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
@@ -52,8 +52,8 @@
 },
 {
     "ClassName": "SN_USP",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 1500,
+    "MinPriceThreshold": 750,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
@@ -63,8 +63,8 @@
 },
 {
     "ClassName": "SN_Mp443",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
@@ -74,8 +74,8 @@
 },
 {
     "ClassName": "SN_M9",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 1500,
+    "MinPriceThreshold": 750,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
@@ -85,8 +85,8 @@
 },
 {
     "ClassName": "SN_Glock19",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 1500,
+    "MinPriceThreshold": 750,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
@@ -95,8 +95,8 @@
     "Variants":[]
 },{
     "ClassName": "SNAFUMagnum500",
-    "MaxPriceThreshold": 20000,
-    "MinPriceThreshold": 15000,
+    "MaxPriceThreshold": 3000,
+    "MinPriceThreshold": 1500,
     "SellPricePercent": 50,
     "MaxStockThreshold": 50,
     "MinStockThreshold": 0,
