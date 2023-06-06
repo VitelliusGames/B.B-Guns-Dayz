@@ -503,12 +503,9 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "MSFC_PlateCarrier_Vest_ATACFG_Logo",
                 "MSFC_PlateCarrier_Vest_MulticamTropic_Logo",
                 "MSFC_PlateCarrier_Vest_MulticamBlack_Logo",
-                "MSFC_PlateCarrier_Vest_MulticamSnow_Logo",
-                "MSFC_PlateCarrier_Vest_ATACFG_Logo",
-                "MSFC_PlateCarrier_Vest_ATACFG_Logo"
+                "MSFC_PlateCarrier_Vest_MulticamSnow_Logo"
             ]
         },
         {
@@ -849,24 +846,6 @@
                 "MSFC_TacticalBelt_MulticamSnow",
                 "MSFC_TacticalBelt_ATACSAU",
                 "MSFC_TacticalBelt_ATACSFG"
-            ]
-        },
-        {
-            "ClassName": "MSFC_Pouches_Magazine_Multicam",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "MSFC_Pouches_Magazine_SURPAT",
-                "MSFC_Pouches_Magazine_Multicam_Tropic",
-                "MSFC_Pouches_Magazine_Multicam_Black",
-                "MSFC_Pouches_Magazine_Multicam_Snow",
-                "MSFC_Pouches_Magazine_ATACSAU",
-                "MSFC_Pouches_Magazine_ATACSFG"
             ]
         },
         {
