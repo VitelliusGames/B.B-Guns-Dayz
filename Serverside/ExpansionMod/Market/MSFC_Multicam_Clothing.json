@@ -1,0 +1,927 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MSFC Multicam Clothing",
+    "Icon": "Trader",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+        {
+            "ClassName": "MSFC_NBC_Hood_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_NBC_Hood_SURPAT",
+                "MSFC_NBC_Hood_MulticamTropic",
+                "MSFC_NBC_Hood_MulticamBlack",
+                "MSFC_Canteen_MulticamSnow",
+                "MSFC_NBC_Hood_ATACSAU",
+                "MSFC_NBC_Hood_ATACSFG",
+                "MSFC_NBC_Hood_ATACSFG"
+                
+            ]
+        },
+        {
+            "ClassName": "MSFC_Mich2001_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Mich2001_SURPAT",
+                "MSFC_Mich2001_MulticamTropic",
+                "MSFC_Mich2001_MulticamBlack",
+                "MSFC_NBC_Hood_MulticamSnow",
+                "MSFC_Mich2001_ATACSAU",
+                "MSFC_Mich2001_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_BoonieHat_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_BoonieHat_SURPAT",
+                "MSFC_BoonieHat_MulticamTropic",
+                "MSFC_BoonieHat_MulticamBlack",
+                "MSFC_BoonieHat_MulticamSnow",
+                "MSFC_BoonieHat_ATACSAU",
+                "MSFC_BoonieHat_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Mich2000_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Mich2000_SURPAT",
+                "MSFC_Mich2000_MulticamTropic",
+                "MSFC_Mich2000_MulticamBlack",
+                "MSFC_Mich2000_MulticamSnow",
+                "MSFC_Mich2000_ATACSAU",
+                "MSFC_Mich2000_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_PCU5_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_PCU5_SURPAT",
+                "MSFC_PCU5_MulticamTropic",
+                "MSFC_PCU5_MulticamBlack",
+                "MSFC_PCU5_MulticamSnow",
+                "MSFC_PCU5_ATACSAU",
+                "MSFC_PCU5_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Sweater_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Sweater_SURPAT",
+                "MSFC_Sweater_MulticamTropic",
+                "MSFC_Sweater_MulticamBlack",
+                "MSFC_Sweater_MulticamSnow",
+                "MSFC_Sweater_ATACSAU",
+                "MSFC_Sweater_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Gloves_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Gloves_SURPAT",
+                "MSFC_Gloves_MulticamTropic",
+                "MSFC_Gloves_MulticamBlack",
+                "MSFC_Gloves_MulticamSnow",
+                "MSFC_Gloves_ATACSAU",
+                "MSFC_Gloves_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_NBC_Gloves_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_NBC_Gloves_SURPAT",
+                "MSFC_NBC_Gloves_MulticamTropic",
+                "MSFC_NBC_Gloves_MulticamBlack",
+                "MSFC_NBC_Gloves_MulticamSnow",
+                "MSFC_NBC_Gloves_ATACSAU",
+                "MSFC_NBC_Gloves_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Tortila_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Tortila_SURPAT",
+                "MSFC_Tortila_MulticamTropic",
+                "MSFC_Tortila_MulticamBlack",
+                "MSFC_Tortila_MulticamSnow",
+                "MSFC_Tortila_ATACSAU",
+                "MSFC_Tortila_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_PCU5_Multicam_NoLogo",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_PCU5_SURPAT_NoLogo",
+                "MSFC_PCU5_MulticamTropic_NoLogo",
+                "MSFC_PCU5_MulticamBlack_NoLogo",
+                "MSFC_PCU5_MulticamSnow_NoLogo",
+                "MSFC_PCU5_ATACSAU_NoLogo",
+                "MSFC_PCU5_ATACSFG_NoLogo"
+            ]
+        },
+        {
+            "ClassName": "MSFC_OPS_Core_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_OPS_Core_Multicam_Tropic",
+                "MSFC_OPS_Core_Multicam_Black",
+                "MSFC_OPS_Core_Multicam_Snow",
+                "MSFC_OPS_Core_ATACS_FG",
+                "MSFC_OPS_Core_ATACS_FG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Tactical_Cap_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Tactical_Cap_SURPAT",
+                "MSFC_Tactical_Cap_Multicam_Tropic",
+                "MSFC_Tactical_Cap_Multicam_Black",
+                "MSFC_Tactical_Cap_Multicam_Snow",
+                "MSFC_Tactical_Cap_ATACSAU",
+                "MSFC_Tactical_Cap_ATACSFG"         
+            ]
+        },
+        {
+            "ClassName": "MSFC_Case_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Case_SURPAT",
+                "MSFC_Case_Multicam_Tropic",
+                "MSFC_Case_Multicam_Black",
+                "MSFC_Case_Multicam_Snow",
+                "MSFC_Case_ATACSAU",
+                "MSFC_Case_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Alice_Bag_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Alice_Bag_SURPAT",
+                "MSFC_Alice_Bag_MulticamTropic",
+                "MSFC_Alice_Bag_MulticamBlack",
+                "MSFC_Alice_Bag_MulticamSnow",
+                "MSFC_Alice_Bag_ATACSAU",
+                "MSFC_Alice_Bag_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Smersh_Bag_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Smersh_Bag_SURPAT",
+                "MSFC_Smersh_Bag_MulticamTropic",
+                "MSFC_Smersh_Bag_MulticamBlack",
+                "MSFC_Smersh_Bag_MulticamSnow",
+                "MSFC_Smersh_Bag_ATACSAU",
+                "MSFC_Smersh_Bag_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Mountain_Bag_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Mountain_Bag_SURPAT",
+                "MSFC_Mountain_Bag_MulticamTropic",
+                "MSFC_Mountain_Bag_MulticamBlack",
+                "MSFC_Mountain_Bag_MulticamSnow",
+                "MSFC_Mountain_Bag_ATACSAU",
+                "MSFC_Mountain_Bag_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Coyote_Bag_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Coyote_Bag_SURPAT",
+                "MSFC_Coyote_Bag_MulticamTropic",
+                "MSFC_Coyote_Bag_MulticamBlack",
+                "MSFC_Coyote_Bag_MulticamSnow",
+                "MSFC_Coyote_Bag_ATACSAU",
+                "MSFC_Coyote_Bag_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Smersh_Bag_Medic_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Smersh_Bag_Medic_SURPAT",
+                "MSFC_Smersh_Bag_Medic_MulticamTropic",
+                "MSFC_Smersh_Bag_Medic_MulticamBlack",
+                "MSFC_Smersh_Bag_Medic_MulticamSnow",
+                "MSFC_Smersh_Bag_Medic_ATACSAU",
+                "MSFC_Smersh_Bag_Medic_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_CargoBag_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_CargoBag_SURPAT",
+                "MSFC_CargoBag_Multicam_Tropic",
+                "MSFC_CargoBag_Multicam_Black",
+                "MSFC_CargoBag_Multicam_Snow",
+                "MSFC_CargoBag_ATACSAU",
+                "MSFC_CargoBag_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_PegasusBag_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_PegasusBag_SURPAT",
+                "MSFC_PegasusBag_Multicam_Tropic",
+                "MSFC_PegasusBag_Multicam_Black",
+                "MSFC_PegasusBag_Multicam_Snow",
+                "MSFC_PegasusBag_ATACSAU",
+                "MSFC_PegasusBag_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_MilitaryTacticalBag30L_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_MilitaryTacticalBag30L_SURPAT",
+                "MSFC_MilitaryTacticalBag30L_Multicam_Tropic",
+                "MSFC_MilitaryTacticalBag30L_Multicam_Black",
+                "MSFC_MilitaryTacticalBag30L_Multicam_Snow",
+                "MSFC_MilitaryTacticalBag30L_ATACSAU",
+                "MSFC_MilitaryTacticalBag30L_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_MilitaryTacticalBag70L_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_MilitaryTacticalBag70L_SURPAT",
+                "MSFC_MilitaryTacticalBag70L_Multicam_Tropic",
+                "MSFC_MilitaryTacticalBag70L_Multicam_Black",
+                "MSFC_MilitaryTacticalBag70L_Multicam_Snow",
+                "MSFC_MilitaryTacticalBag70L_ATACSAU",
+                "MSFC_MilitaryTacticalBag70L_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Smersh_Vest_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Smersh_Vest_SURPAT",
+                "MSFC_Smersh_Vest_MulticamTropic",
+                "MSFC_Smersh_Vest_MulticamBlack",
+                "MSFC_Smersh_Vest_MulticamSnow",
+                "MSFC_Smersh_Vest_ATACSAU",
+                "MSFC_Smersh_Vest_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_HighCapacity_Vest_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_HighCapacity_Vest_SURPAT",
+                "MSFC_HighCapacity_Vest_MulticamTropic",
+                "MSFC_HighCapacity_Vest_MulticamBlack",
+                "MSFC_HighCapacity_Vest_MulticamSnow",
+                "MSFC_HighCapacity_Vest_ATACSAU",
+                "MSFC_HighCapacity_Vest_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_PlateCarrier_Vest_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_PlateCarrier_Vest_SURPAT",
+                "MSFC_PlateCarrier_Vest_MulticamTropic",
+                "MSFC_PlateCarrier_Vest_MulticamBlack",
+                "MSFC_PlateCarrier_Vest_MulticamSnow",
+                "MSFC_PlateCarrier_Vest_ATACSAU",
+                "MSFC_PlateCarrier_Vest_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_PlateCarrier_Holster_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_PlateCarrier_Holster_SURPAT",
+                "MSFC_PlateCarrier_Holster_MulticamTropic",
+                "MSFC_PlateCarrier_Holster_MulticamBlack",
+                "MSFC_PlateCarrier_Holster_MulticamSnow",
+                "MSFC_PlateCarrier_Holster_ATACSAU",
+                "MSFC_PlateCarrier_Holster_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_PlateCarrier_Pouches_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_PlateCarrier_Pouches_SURPAT",
+                "MSFC_PlateCarrier_Pouches_MulticamTropic",
+                "MSFC_PlateCarrier_Pouches_MulticamBlack",
+                "MSFC_PlateCarrier_Pouches_MulticamSnow",
+                "MSFC_PlateCarrier_Pouches_ATACSAU",
+                "MSFC_PlateCarrier_Pouches_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_PlateCarrier_Vest_Multicam_Logo",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_PlateCarrier_Vest_ATACFG_Logo",
+                "MSFC_PlateCarrier_Vest_MulticamTropic_Logo",
+                "MSFC_PlateCarrier_Vest_MulticamBlack_Logo",
+                "MSFC_PlateCarrier_Vest_MulticamSnow_Logo",
+                "MSFC_PlateCarrier_Vest_ATACFG_Logo",
+                "MSFC_PlateCarrier_Vest_ATACFG_Logo"
+            ]
+        },
+        {
+            "ClassName": "MSFC_HighCapacity_Vest_Multicam_Logo",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_HighCapacity_Vest_SURPAT_Logo",
+                "MSFC_HighCapacity_Vest_MulticamTropic_Logo",
+                "MSFC_HighCapacity_Vest_MulticamBlack_Logo",
+                "MSFC_HighCapacity_Vest_MulticamSnow_Logo",
+                "MSFC_HighCapacity_Vest_ATACSAU_Logo",
+                "MSFC_HighCapacity_Vest_ATACSFG_Logo"
+            ]
+        },
+        {
+            "ClassName": "MSFC_JPC_Vest_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_JPC_Vest_SURPAT",
+                "MSFC_JPC_Vest_MulticamTropic",
+                "MSFC_JPC_Vest_MulticamBlack",
+                "MSFC_JPC_Vest_MulticamSnow",
+                "MSFC_JPC_Vest_ATACSAU",
+                "MSFC_JPC_Vest_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_TacTec_Vest_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_TacTec_Vest_SURPAT",
+                "MSFC_TacTec_Vest_MulticamTropic",
+                "MSFC_TacTec_Vest_MulticamBlack",
+                "MSFC_TacTec_Vest_MulticamSnow",
+                "MSFC_TacTec_Vest_ATACSAU",
+                "MSFC_TacTec_Vest_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_NBC_Pants_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_NBC_Pants_SURPAT",
+                "MSFC_NBC_Pants_MulticamTropic",
+                "MSFC_NBC_Pants_MulticamBlack",
+                "MSFC_NBC_Pants_MulticamSnow",
+                "MSFC_NBC_Pants_ATACSAU",
+                "MSFC_NBC_Pants_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Gorka_Pants_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Gorka_Pants_SURPAT",
+                "MSFC_Gorka_Pants_MulticamTropic",
+                "MSFC_Gorka_Pants_MulticamBlack",
+                "MSFC_Gorka_Pants_MulticamSnow",
+                "MSFC_Gorka_Pants_ATACSAU",
+                "MSFC_Gorka_Pants_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Cargo_Pants_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Cargo_Pants_SURPAT",
+                "MSFC_Cargo_Pants_MulticamTropic",
+                "MSFC_Cargo_Pants_MulticamBlack",
+                "MSFC_Cargo_Pants_MulticamSnow",
+                "MSFC_Cargo_Pants_ATACSAU",
+                "MSFC_Cargo_Pants_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_G3Pants_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_G3Pants_SURPAT",
+                "MSFC_G3Pants_Multicam_Tropic",
+                "MSFC_G3Pants_Multicam_Black",
+                "MSFC_G3Pants_Multicam_Snow",
+                "MSFC_G3Pants_ATACSAU",
+                "MSFC_G3Pants_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Gorka_Jacket_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Gorka_Jacket_SURPAT",
+                "MSFC_Gorka_Jacket_MulticamTropic",
+                "MSFC_Gorka_Jacket_MulticamBlack",
+                "MSFC_Gorka_Jacket_MulticamSnow",
+                "MSFC_Gorka_Jacket_ATACSAU",
+                "MSFC_Gorka_Jacket_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_NBC_Jacket_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_NBC_Jacket_SURPAT",
+                "MSFC_NBC_Jacket_MulticamTropic",
+                "MSFC_NBC_Jacket_MulticamBlack",
+                "MSFC_NBC_Jacket_MulticamSnow",
+                "MSFC_NBC_Jacket_ATACSAU",
+                "MSFC_NBC_Jacket_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_M65_Jacket_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_M65_Jacket_SURPAT",
+                "MSFC_M65_Jacket_MulticamTropic",
+                "MSFC_M65_Jacket_MulticamBlack",
+                "MSFC_M65_Jacket_MulticamSnow",
+                "MSFC_M65_Jacket_ATACSAU",
+                "MSFC_M65_Jacket_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Gorka_Jacket_Multicam_NoLogo",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Gorka_Jacket_SURPAT_NoLogo",
+                "MSFC_Gorka_Jacket_MulticamTropic_NoLogo",
+                "MSFC_Gorka_Jacket_MulticamBlack_NoLogo",
+                "MSFC_Gorka_Jacket_MulticamSnow_NoLogo",
+                "MSFC_Gorka_Jacket_ATACSAU_NoLogo",
+                "MSFC_Gorka_Jacket_ATACSFG_NoLogo"
+            ]
+        },
+        {
+            "ClassName": "MSFC_TShirt_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_TShirt_SURPAT",
+                "MSFC_TShirt_MulticamTropic",
+                "MSFC_TShirt_MulticamBlack",
+                "MSFC_TShirt_MulticamSnow",
+                "MSFC_TShirt_ATACSAU",
+                "MSFC_TShirt_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_NBC_Boots_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_NBC_Boots_SURPAT",
+                "MSFC_NBC_Boots_MulticamTropic",
+                "MSFC_NBC_Boots_MulticamBlack",
+                "MSFC_NBC_Boots_MulticamSnow",
+                "MSFC_NBC_Boots_ATACSAU",
+                "MSFC_NBC_Boots_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Boots_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Boots_SURPAT",
+                "MSFC_Boots_MulticamTropic",
+                "MSFC_Boots_MulticamBlack",
+                "MSFC_Boots_MulticamSnow",
+                "MSFC_Boots_ATACSAU",
+                "MSFC_Boots_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Boots_Lowa_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Boots_Lowa_SURPAT",
+                "MSFC_Boots_Lowa_MulticamTropic",
+                "MSFC_Boots_Lowa_MulticamBlack",
+                "MSFC_Boots_Lowa_MulticamSnow",
+                "MSFC_Boots_Lowa_ATACSAU", 
+                "MSFC_Boots_Lowa_ATACSFG"        
+            ]
+        },
+        {
+            "ClassName": "MSFC_Boots_Trekking_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Boots_Trekking_SURPAT",
+                "MSFC_Boots_Trekking_MulticamTropic",
+                "MSFC_Boots_Trekking_MulticamBlack",
+                "MSFC_Boots_Trekking_MulticamSnow",
+                "MSFC_Boots_Trekking_ATACSAU",
+                "MSFC_Boots_Trekking_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Facemask_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Facemask_Multicam_Tropic",
+                "MSFC_Facemask_Multicam_Black",
+                "MSFC_Facemask_Multicam_Snow",
+                "MSFC_Facemask_ATACS_FG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_WarBelt_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_WarBelt_SURPAT",
+                "MSFC_WarBelt_Multicam_Tropic",
+                "MSFC_WarBelt_Multicam_Black",
+                "MSFC_WarBelt_Multicam_Snow",
+                "MSFC_WarBelt_ATACSAU",
+                "MSFC_WarBelt_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_TacticalBelt_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_TacticalBelt_SURPAT",
+                "MSFC_TacticalBelt_MulticamTropic",
+                "MSFC_TacticalBelt_MulticamBlack",
+                "MSFC_TacticalBelt_MulticamSnow",
+                "MSFC_TacticalBelt_ATACSAU",
+                "MSFC_TacticalBelt_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Pouches_Magazine_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Pouches_Magazine_SURPAT",
+                "MSFC_Pouches_Magazine_Multicam_Tropic",
+                "MSFC_Pouches_Magazine_Multicam_Black",
+                "MSFC_Pouches_Magazine_Multicam_Snow",
+                "MSFC_Pouches_Magazine_ATACSAU",
+                "MSFC_Pouches_Magazine_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Pouches_One_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Pouches_One_SURPAT",
+                "MSFC_Pouches_One_Multicam_Tropic",
+                "MSFC_Pouches_One_Multicam_Black",
+                "MSFC_Pouches_One_Multicam_Snow",
+                "MSFC_Pouches_One_ATACSAU",
+                "MSFC_Pouches_One_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Pouches_Two_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Pouches_Two_SURPAT",
+                "MSFC_Pouches_Two_Multicam_Tropic",
+                "MSFC_Pouches_Two_Multicam_Black",
+                "MSFC_Pouches_Two_Multicam_Snow",
+                "MSFC_Pouches_Two_ATACSAU",
+                "MSFC_Pouches_Two_ATACSFG"
+            ]
+        },
+        {
+            "ClassName": "MSFC_Pouches_IFAK_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MSFC_Pouches_IFAK_SURPAT",
+                "MSFC_Pouches_IFAK_Multicam_Tropic",
+                "MSFC_Pouches_IFAK_Multicam_Black",
+                "MSFC_Pouches_IFAK_Multicam_Snow",
+                "MSFC_Pouches_IFAK_ATACSAU",
+                "MSFC_Pouches_IFAK_ATACSFG"
+            ]
+        }
+    ]
+}
