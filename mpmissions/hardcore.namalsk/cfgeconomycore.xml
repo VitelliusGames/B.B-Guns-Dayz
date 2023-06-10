@@ -21,7 +21,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="MSFC_Types_BaseColorClothes.xml" type="types" />
 		<file name="MSFC_TypesATACSAU.xml" type="types" />
 		<file name="MSFC_TypesATACSFG.xml" type="types" />
-		<file name="MSFC_TypesFlagPole.xml" type="types" />
 		<file name="MSFC_TypesMulticam.xml" type="types" />
 		<file name="MSFC_TypesMulticamBlack.xml" type="types" />
 		<file name="MSFC_TypesMulticamSnow.xml" type="types" />
