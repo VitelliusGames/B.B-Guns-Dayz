@@ -7,6 +7,19 @@
 	"InitStockPercent":100,
 	"Items":[
 		{
+			"ClassName": "SNAFU_MK4710Gun",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 3000,
+			"SellPricePercent": 50,
+			"MaxStockThreshold": 75,
+			"MinStockThreshold": 0,
+			"QuantityPercent": -1,
+			"SpawnAttachments":[],
+			"Variants":[
+			"SNAFU_MK4716Gun"
+			]
+		},
+		{
 			"ClassName": "SNAFU_M1918A2",
 			"MaxPriceThreshold": 6000,
 			"MinPriceThreshold": 3000,
