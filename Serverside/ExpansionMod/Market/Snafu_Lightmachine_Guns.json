@@ -8,8 +8,8 @@
     "Items":[
         {
 			"ClassName": "SNAFURPD",
-			"MaxPriceThreshold": 20000,
-			"MinPriceThreshold": 15000,
+			"MaxPriceThreshold": 7500,
+			"MinPriceThreshold": 6000,
 			"SellPricePercent": 50,
 			"MaxStockThreshold": 5,
 			"MinStockThreshold": 0,
@@ -19,8 +19,8 @@
 		},
         {
 			"ClassName": "Snafu_pkp_Black_GUN",
-			"MaxPriceThreshold": 20000,
-			"MinPriceThreshold": 15000,
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 7500,
 			"SellPricePercent": 50,
 			"MaxStockThreshold": 5,
 			"MinStockThreshold": 0,
@@ -32,8 +32,8 @@
 		},
         {
             "ClassName": "SNAFU_U100",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 5000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 5,
 			"MinStockThreshold": 0,
