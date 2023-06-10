@@ -46,21 +46,6 @@
             ],
             "m_Locked": 0,
             "m_Persist": 1
-        },
-        {
-            "m_UID": "ServerMarker_Trader_TaraHarbor",
-            "m_Visibility": 6,
-            "m_Is3D": 0,
-            "m_Text": "Tara Harbor - Boats Trader",
-            "m_IconName": "Trader",
-            "m_Color": -13710223,
-            "m_Position": [
-                8043.4501953125,
-                10.0,
-                7593.4501953125
-            ],
-            "m_Locked": 0,
-            "m_Persist": 1
         }
     ],
     "EnableHUDCompass": 1,
