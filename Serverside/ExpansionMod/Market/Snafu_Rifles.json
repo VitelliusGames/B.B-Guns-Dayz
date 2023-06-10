@@ -9,7 +9,7 @@
 		{
 			"ClassName": "SNAFU_MK4710Gun",
 			"MaxPriceThreshold": 6000,
-			"MinPriceThreshold": 3000,
+			"MinPriceThreshold": 4500,
 			"SellPricePercent": 50,
 			"MaxStockThreshold": 75,
 			"MinStockThreshold": 0,
