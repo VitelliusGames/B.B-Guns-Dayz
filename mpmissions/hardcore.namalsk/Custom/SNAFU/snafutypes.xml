@@ -52,10 +52,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_Ammo_3006">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -65,10 +65,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_Ammo_408Chey">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -78,10 +78,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_Ammo_50Cal">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -91,10 +91,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_Ammo_762x51">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -104,10 +104,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_HK416_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -182,10 +182,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M1Garand_Bayonet">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -195,10 +195,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M1Garand_FlashHider">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -208,10 +208,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M1Garand_Supp">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -221,10 +221,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M1Garand">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -234,10 +234,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M200_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -338,10 +338,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M82_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -351,10 +351,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M84_Optic">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -364,10 +364,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_Mag_FAL_50Rnd">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -377,10 +377,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_MP7_40Rnd">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -402,10 +402,10 @@
         <tag name="civilian" />
     </type>
     <type name="GCGN_VEPR_10rnd">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -428,10 +428,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_Vityaz_30Rnd">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -506,10 +506,10 @@
         <tag name="military" />
     </type>
     <type name="Modified_SA58_30RND_BK">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -519,10 +519,10 @@
         <tag name="military" />
     </type>
     <type name="Modified_SA58_30RND_DT">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -532,10 +532,10 @@
         <tag name="military" />
     </type>
     <type name="Modified_SA58_30RND_WBK">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -545,10 +545,10 @@
         <tag name="military" />
     </type>
     <type name="SA58_30RND_BK">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -558,10 +558,10 @@
         <tag name="military" />
     </type>
     <type name="SA58_30RND_DT">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -571,10 +571,10 @@
         <tag name="military" />
     </type>
     <type name="SA58_30RND_WBK">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -584,10 +584,10 @@
         <tag name="military" />
     </type>
     <type name="SA58_DrumMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -597,10 +597,10 @@
         <tag name="military" />
     </type>
     <type name="SA58_FGrip">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -610,10 +610,10 @@
         <tag name="military" />
     </type>
     <type name="SA58_Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -662,10 +662,10 @@
         <tag name="military" />
     </type>
     <type name="SN_Auto_Shotgun_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -714,10 +714,10 @@
         <tag name="military" />
     </type>
     <type name="SN_M9_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -740,10 +740,10 @@
         <tag name="military" />
     </type>
     <type name="SN_Mp443_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -766,10 +766,10 @@
         <tag name="military" />
     </type>
     <type name="SN_Springfield_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -793,10 +793,10 @@
         <tag name="hunting" />
     </type>
     <type name="SN_USP_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -819,10 +819,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_408_Suppressor_T">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -897,10 +897,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Agram_32rnd_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -923,10 +923,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Agram_Suppressor_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -936,10 +936,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Aimpoint_ACO">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -949,10 +949,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Aimpoint_M5">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -962,10 +962,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AK_AR_Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -988,10 +988,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AK_Mount_Base">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1001,10 +1001,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AK103_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1027,10 +1027,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AK12_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1053,10 +1053,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AK19_Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1079,10 +1079,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AK19Muzzel">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1092,10 +1092,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AK308_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1118,10 +1118,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AK308Muzzel">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1131,10 +1131,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AKAimpoint_ACO">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1144,10 +1144,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AKAimpoint_M5">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1183,10 +1183,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AKHuntingOptic">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1326,10 +1326,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_127x55mm">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1339,10 +1339,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_127x55mmAP">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1352,10 +1352,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_145Cal">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1365,10 +1365,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_300ACC">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1378,10 +1378,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_338">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1391,10 +1391,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_44">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1404,10 +1404,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_45_70mm">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1417,10 +1417,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_46x30">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1430,10 +1430,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_5_7x28mm">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1443,10 +1443,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_500_SW">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1456,10 +1456,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Ammo_762x25">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1859,10 +1859,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_FGCR_Grip">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1872,10 +1872,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_FGKAC_Grip">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1885,10 +1885,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Fort12_12rnd_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1911,10 +1911,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_FRF2_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1963,10 +1963,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_HAimpoint_ACO">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1976,10 +1976,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_HAimpoint_M5">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2015,10 +2015,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_HeramuzzelF">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2080,10 +2080,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_HHuntingOptic">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2158,10 +2158,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Hunting_Mount_Base">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2171,10 +2171,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_HuntingOptic">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2197,10 +2197,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_IRONMODOptic">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2275,10 +2275,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_LNormalized_Suppressor_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2288,10 +2288,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_LNormalized_Suppressor_Green">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2301,10 +2301,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_LStandardized_Suppressor_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2314,10 +2314,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_LStandardized_Suppressor_Green">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2353,10 +2353,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M14_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2379,10 +2379,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M14Optic">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2392,10 +2392,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M1918A2_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2509,10 +2509,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M249Bipod">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2522,10 +2522,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M249Grip">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2548,10 +2548,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M249Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2587,10 +2587,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M300Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2704,10 +2704,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M4SS_Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2717,10 +2717,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_M76_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2743,10 +2743,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MAimpoint_ACO">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2756,10 +2756,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MAimpoint_M5">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2769,10 +2769,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Mar10_15rnd_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2873,10 +2873,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MD_Ammo_556x45mm_M855A1">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2912,10 +2912,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MHuntingOptic">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2964,10 +2964,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MK47_Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3016,10 +3016,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MK47Muzzel">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3094,10 +3094,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_ModBipod">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3107,10 +3107,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MOE_Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3120,10 +3120,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Mosin_Mount_Base">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3133,10 +3133,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MP9_30rnd_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3159,10 +3159,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MPX_30rnd_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3185,10 +3185,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MPX_Suppressor_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3276,10 +3276,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_MuzzelFF">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3315,10 +3315,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Normalized_Suppressor_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3328,10 +3328,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Normalized_Suppressor_Green">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3341,10 +3341,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_NPKPBIPOD">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3354,10 +3354,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PDW_45ACP_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3367,10 +3367,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PDW_45ACP">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3380,10 +3380,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PDW_9mm_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3393,10 +3393,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PDW_9mm">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3419,10 +3419,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PistolGripColtA2">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3432,10 +3432,10 @@
         <tag name="military" />
     </type>
     <type name="Snafu_pkp_250RND_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3471,10 +3471,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PKPBIPOD">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3510,10 +3510,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PMAG556_OD">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3523,10 +3523,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PMAG556_Tan">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3575,10 +3575,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_RPK16_Green_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3601,10 +3601,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_RPK16_Tan_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3653,10 +3653,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Saint_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3679,10 +3679,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_SBA_Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3692,10 +3692,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_ScarH_100RND_Mag_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3705,10 +3705,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_ScarH_100RND_Mag_Tan">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3718,10 +3718,10 @@
         <tag name="military" />
     </type>
     <type name="Snafu_ScarH_25RND_Mag_BK">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3731,10 +3731,10 @@
         <tag name="military" />
     </type>
     <type name="Snafu_ScarH_25RND_Mag_DKMC">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3744,10 +3744,10 @@
         <tag name="military" />
     </type>
     <type name="Snafu_ScarH_25RND_Mag_OD">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3757,10 +3757,10 @@
         <tag name="military" />
     </type>
     <type name="Snafu_ScarH_25RND_Mag_Snow">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3770,10 +3770,10 @@
         <tag name="military" />
     </type>
     <type name="Snafu_ScarH_25RND_Mag_Tan">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3887,10 +3887,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_SKS_10Rnd_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3900,10 +3900,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_SKS_30Rnd_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3913,10 +3913,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_SKS_Bayonet">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3965,10 +3965,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_SR25_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3978,10 +3978,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_SR25_Supp">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3991,10 +3991,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_SR3Grip">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4043,10 +4043,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Standardized_Suppressor_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4056,10 +4056,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Standardized_Suppressor_Green">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4069,10 +4069,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_TACGripColtA2_BK">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4082,10 +4082,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_TACGripColtA2_Grey">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4095,10 +4095,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_TACGripColtA2_OD">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4108,10 +4108,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_TACGripColtA2_Tan">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4225,10 +4225,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_U100_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4251,10 +4251,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_UBR_Stock">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4264,10 +4264,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_VSSKbipod">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4303,10 +4303,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUAlligator_5rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4329,10 +4329,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUAPS_20rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4368,10 +4368,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUAR15_SPR_100RND_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4381,10 +4381,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUAR15_SPR_30RND_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4394,10 +4394,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUAR15_SPR_40RND_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4407,10 +4407,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUAR15_SPR_60RND_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4446,10 +4446,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUASh12_20rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4472,10 +4472,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUAUG_30rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4524,10 +4524,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUAX50_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4562,10 +4562,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUDVL10M2_5rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4601,10 +4601,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUGevar_10rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4653,10 +4653,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUGevar_Suppressor_Green">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4666,10 +4666,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUGevar_Suppressor_Tan">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4692,10 +4692,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUGM6Lynx_5rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4718,10 +4718,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUHoneyBadger_30rdMag_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4731,10 +4731,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUHoneyBadger_30rdMag_Tan">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4770,10 +4770,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUKH9_30rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4796,10 +4796,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUKivaari_10rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4809,10 +4809,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUKivaari_25rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4822,10 +4822,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUKivaari_338_Supp">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4887,10 +4887,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUM1A_20rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4965,10 +4965,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUM96_5rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5030,10 +5030,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUM98B_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5107,10 +5107,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUMk12_20rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5146,10 +5146,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUP90_50rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5172,10 +5172,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUPPSh_71rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5198,10 +5198,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUPPSKN_30rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5224,10 +5224,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFURPD_100rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5263,10 +5263,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFURSASS_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5354,10 +5354,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUSRSA2_10rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5380,10 +5380,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUSten_32rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5432,10 +5432,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUT5000_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5471,10 +5471,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUTac21_5rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5536,10 +5536,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUThompsonMk2_30rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5575,10 +5575,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUUzi_32rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5588,10 +5588,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUUzi_72rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5627,10 +5627,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUVECTOR_45acp_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5653,10 +5653,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUVECTOR_9mm_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5692,10 +5692,10 @@
         <tag name="military" />
     </type>
     <type name="SNHK417_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5730,10 +5730,10 @@
         <tag name="civilian" />
     </type>
     <type name="SR3_Vikhr_Supp">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5756,10 +5756,10 @@
         <tag name="military" />
     </type>
     <type name="Tec9_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5782,10 +5782,10 @@
         <tag name="military" />
     </type>
     <type name="VR80_Magazine_10rd">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5795,10 +5795,10 @@
         <tag name="military" />
     </type>
     <type name="VR80_Magazine_5rd">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5808,10 +5808,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_BenelliM4">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5821,10 +5821,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M1Garand_FH">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5834,10 +5834,10 @@
         <tag name="military" />
     </type>
     <type name="GCGN_M1Garand_Muzzle">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5847,10 +5847,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_30mm_Mount_Base">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5860,10 +5860,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_50bmg_Suppressor_B">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5873,10 +5873,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_50bmg_Suppressor_M">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5886,10 +5886,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_50bmg_Suppressor_S">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5899,10 +5899,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_50bmg_Suppressor_U">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5912,10 +5912,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_50bmg_Suppressor_W">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5925,10 +5925,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AKEOTech_EXPS">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5938,10 +5938,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_AWM_GUN">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5951,10 +5951,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_EOTech_EXPS">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5964,10 +5964,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Kabar">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5977,10 +5977,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Kabar_BK">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5990,10 +5990,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PL14HQP">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6003,10 +6003,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_PL14HQP_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6016,10 +6016,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Shotgunchoke_Black">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6029,10 +6029,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Shotgunchoke_Blue">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6042,10 +6042,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Shotgunchoke_Brown">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6055,10 +6055,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Shotgunchoke_Green">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6068,10 +6068,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Shotgunchoke_Purple">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6081,10 +6081,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Shotgunchoke_Red">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6094,10 +6094,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Shotgunchoke_Tur">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6107,10 +6107,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFU_Shotgunchoke_Yellow">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6146,10 +6146,10 @@
         <tag name="military" />
     </type>
     <type name="SNAFUVSSK_5rdMag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6159,10 +6159,10 @@
         <tag name="military" />
     </type>
     <type name="SR3_Vikhr_Gun">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6172,10 +6172,10 @@
         <tag name="military" />
     </type>
     <type name="SR3_Vikhr_Mag">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
