@@ -401,8 +401,8 @@
         },
         {
             "ClassName": "mich2001helmet",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
